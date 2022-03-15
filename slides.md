@@ -78,7 +78,110 @@ We may periodically use Zoom's annotation tools. So, let's get familiar with it.
 
 
 
-## Impact map example
+## Impact map examples
+
+
+
+<figure>
+
+![Impact map example](https://www.impactmapping.org/assets/im_template.png)
+
+  <figcaption>The first example map illustrates a milestone for a music information web site. The main business goal for the milestone is to increase mobile advertising revenue.</figcaption>
+</figure>
+
+
+
+<figure>
+
+![Impact map example 2](https://www.impactmapping.org/assets/gaming_example.png)
+
+  <figcaption>The second example map illustrates a milestone of an online gaming platform. The key business goal for this milestone is to increase the number of active players to 1 million.</figcaption>
+</figure>
+
+
+
+## Collaborating on impact maps
+
+
+
+## Goal
+
+Collaborate realtime to make impact maps during this workshop
+
+
+
+## Actors
+
+Facilitator
+
+Participants
+
+Tech
+
+
+
+## Facilitator
+
+Prepare
+
+
+
+## Prepare
+
+Choose platform (Google Docs)
+
+Prepare template
+
+Prepare examples
+
+
+
+## Participants
+
+Participate
+
+
+
+## Participate
+
+Edit or comment on a doc
+
+Ask questions
+
+
+
+## Tech
+
+Hinder
+
+
+
+## Hinder
+
+Limit number of collaborators
+
+Network fails
+
+
+
+<figure class="fig-impact-map-outline-2 fig-impact-map-outline-2--short">
+
+# Collaborate on impact maps
+## Facilitator
+### Prepare
+#### Choose platform (Google Docs)
+#### Prepare template
+#### Prepare examples
+## Participants
+### Participate
+#### Edit or comment on a doc
+#### Ask questions
+## Tech
+### Hinder
+#### Limit number of collaborators
+#### Network fails
+
+</figure>
 
 
 
