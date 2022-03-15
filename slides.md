@@ -1,0 +1,94 @@
+# Design With Impact
+
+Statewide IT 2022 Workshop
+
+Chris Basham
+
+Notes:
+Welcome everyone to this workshop. Today, we'll learn how to incorporate accessibility in the design process. First, let's start with some background and logistics.
+
+
+
+## Chris Basham
+
+csbasham@iu.edu
+
+UX designer in Enterprise Student Systems.
+
+*Accessibility. Front-end dev. Design systems.*
+
+Notes:
+I'm Chris Basham. I've worked at Indiana University since 2012, as a UX designer and front-end developer, working on various web software products. Over recent years, I've dived deeper into the topic of accessibility, and I want to share with you what I've learned regarding the intersection of these topics.
+
+
+
+## Outline
+
+| Time  | Duration | Description  |
+| -----:| --------:| ------------ |
+| 9:30  |      10m | Introduction |
+| 9:40  |      45m | Part 1       |
+| 10:25 |       5m | Break        |
+| 10:30 |      60m | Part 2       |
+
+Notes:
+The workshop today is split into 3 major sections, over the course of 3 hours. Each section will be divided by 10 minute breaks.
+
+
+
+## Resources
+
+https://github.com/basham/swit-workshop-impact
+
+Notes:
+All resources for this workshop, including slides, slide notes, exercises, and links, are located on GitHub. Visit github.com/basham/swit-workshop-a11y. This link is posted in the Zoom chat.
+
+
+
+## Zoom etiquette
+
+- Submit questions in chat.
+- Questions will be answered periodically.
+- Mute when you're not talking.
+
+Notes:
+Because there's a lot to cover, I request you to submit any questions you have in the Zoom chat and keep yourself muted. I will then follow up with those questions periodically, between sections or after breaks.
+
+
+
+## Annotate
+
+Zoom → Toolbar → Annotate
+
+<figure>
+
+![Zoom annotation toolbar](assets/zoom-annotation-toolbar.png)
+
+  <figcaption>Experiment with the various Zoom annotation tools.</figcaption>
+</figure>
+
+<footer>
+
+See: [*Accessing and Using Annotation Tools in Zoom: Mac/Win*](https://help.lsit.ucsb.edu/hc/en-us/articles/360043613171-Accessing-and-Using-Annotation-Tools-in-Zoom-Mac-Win)
+
+</footer>
+
+Notes:
+We may periodically use Zoom's annotation tools. So, let's get familiar with it. Look for the toolbar, that hovers over the screen. Click on the "Annotate" button to bring up annotation tools.
+
+
+
+
+
+
+
+# Special thanks
+
+
+
+# Thank you
+
+https://github.com/basham/swit-workshop-impact
+
+Notes:
+Once again, the slides and additional resources are on GitHub. Feel free to follow up with me as you need. Thank you for joining me today.

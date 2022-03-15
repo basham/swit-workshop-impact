@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>Design With Impact - Statewide IT 2022 Workshop</title>
+    <link rel="icon" href="assets/swit-logo-32.png">
+    <link rel="stylesheet" href="reveal.js/dist/reset.css">
+    <link rel="stylesheet" href="reveal.js/dist/reveal.css">
+    <link rel="stylesheet" href="reveal-a11y/accessibility/helper.css">
+    <link rel="stylesheet" href="open-sans/open-sans.css">
+    <link rel="stylesheet" href="theme.css">
+    <link rel="stylesheet" href="slides.css">
+  </head>
+  <body>
+    <div class="reveal">
+      <div class="slides">
+        <section
+          data-markdown="slides.md"
+          data-separator="^\n\n\n">
+        </section>
+      </div>
+    </div>
+    <script src="reveal.js/dist/reveal.js"></script>
+    <script src="reveal.js/plugin/notes/notes.js"></script>
+    <script src="reveal.js/plugin/markdown/markdown.js"></script>
+    <script src="reveal.js/plugin/highlight/highlight.js"></script>
+    <script>
+      Reveal.initialize({
+        backgroundTransition: 'none',
+        dependencies: [
+          {
+            async: true,
+            condition: () => !!document.body.classList,
+            src: 'reveal-a11y/accessibility/helper.js',
+          }
+        ],
+        hash: true,
+        markdown: {
+          smartypants: true
+        },
+        plugins: [
+          RevealMarkdown,
+          RevealHighlight,
+          RevealNotes
+        ],
+        transition: 'none'
+      })
+    </script>
+  </body>
+</html>
