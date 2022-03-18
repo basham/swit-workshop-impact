@@ -56,7 +56,24 @@ Because there's a lot to cover, I request you to submit any questions you have i
 
 
 
+## Agile
+
+Deliver software in the right way.
+
+Notes:
+Iteration. Feedback. Learning.
+
+
+
+## Product discovery
+
+Deliver the right software.
+
+
+
 ## Impact mapping
+
+A product discovery technique that is an input to the Agile process.
 
 Notes:
 This workshop is about a technique known as impact mapping. I stumbled across it over this last year, and it has helped me and my development team better think through the work we do, before we start working.
@@ -84,20 +101,24 @@ Not all impact maps have to look the same. The structure can be more loose. Leve
 
 
 
+## Benefits
+
+1. "Road map" for team and stakeholders
+2. Communicates scope and priorities
+3. Exposes assumptions
+
+Notes:
+The map can be a collaboration between the team and stakeholders, so there's an agreement of what is trying to be achieved. The number of items in the map roughly communicates the scope. The order of the items in the map communicates priorities. The connections of the items exposes assumptions.
+
+
+
 ## Problem solving
 
-Cause → Effect
+Cause → <span class="fragment">Assumptions →</span> Effect
 
 Notes:
 A substantial amount of work we do in IT, the work we do in our personal lives, the work done in other disciplines and domains — can be described simply as problem solving. A cause will result in some effect. A particular solution will achieve a particular goal.
 
-
-
-## Problem solving
-
-Cause → Assumptions → Effect
-
-Notes:
 There is a lot between those ends. There is a lot of opportunities to get it wrong, to not achieve the desired effect or goal. Much of what prevents or hinders us from solving the problem is that we assume a particular cause will result in the desired effect.
 
 
@@ -108,6 +129,8 @@ Unexamined. Unshared. Unproved.
 
 Notes:
 An assumption endangers a desired effect in three ways.
+
+A deliverable will cause a desired impact toward achieving a goal. An actor will contribute toward achieving the goal.
 
 
 
@@ -148,6 +171,162 @@ Third, an assumption is unproved when you do not verify that the cause will achi
 
 Notes:
 In summary, as problem solvers, we need to have some way to define assumptions, communicate assumptions, and vertify assumptions. When we do this, we can more confidently know that a particular cause will result in the desired effect. Impact mapping helps us to do this.
+
+
+
+## Structure
+
+1. Goal
+2. Actors
+3. Impacts
+4. Deliverables
+5. Experiments
+
+Notes:
+Generally, the hierarchy of an impact map is composed of five layers: goals, actors, impacts, deliverables, and experiments.
+
+
+
+## 1. Goal
+
+What are you trying to achieve?
+
+Notes:
+The top of an impact map is the goal. Have one goal per impact map. The goal should answer the question, "What are you trying to achieve?"
+
+
+
+## Personal goals
+
+Health. Relationships. Experiences. Finances.
+
+Notes:
+Personal goals may involve improving your health, improving or creating relationships, having new experiences, or improving your financial situation.
+
+
+
+## Business goals
+
+Time. Money. Cost.
+
+Notes:
+Business goals may involve saving time, making money, or reducing costs.
+
+
+
+## Governmental goals
+
+Social welfare. Infrastructure. Security.
+
+Notes:
+Governmental goals is often more ambitious and broad. It may involve social welfare, infrastructure, or security.
+
+
+
+## SMART goals
+
+- Specific
+- Measurable
+- Achievable
+- Relevant
+- Time-based
+
+Notes:
+Defining a goal is the most important thing to do, since all your work depends on it. A good goal typically follows some variation of the SMART pattern. It should be specific, measurable, achievable, relevant, and time-based.
+
+https://en.wikipedia.org/wiki/SMART_criteria
+
+
+
+## Go to the moon
+
+President John F. Kennedy on Sept 12, 1962:
+
+> [W]e shall send to the moon… a giant rocket…, and then return it safely to earth…, and do it first before this decade is out….
+>
+> [N]ew hopes for knowledge and peace are there.
+
+Notes:
+Let's take a look at one famous goal. In 1962, President John F. Kennedy outlined one in his "We choose to go to the Moon" speech. He says, "We shall send to the moon a giant rocket, and then return it safely to earth, and do it first before this decade is out." He adds that the reason to do this is "new hopes for knowledge and peace."
+
+https://en.wikipedia.org/wiki/We_choose_to_go_to_the_Moon
+
+https://er.jsc.nasa.gov/seh/ricetalk.htm
+
+
+
+## The Eagle has landed
+
+In July 1969, the crew of Apollo 11 landed on the moon, explored for over two hours, and returned safely to Earth.
+
+Notes:
+The goal was specific. It involved the moon and a rocket.
+
+The goal was measurable. The crew collected 47.5 pounds of lunar material. The crew returned and survived. The U.S. was the first nation to do it.
+
+The goal was achievable because the U.S. government invested in new companies, in tens of thousands of new jobs, in new technology, and in new materials.
+
+The goal was relevant, because of the Cold War. The U.S. vowed to be first to the moon, so that "we shall not see space filled with weapons of mass destruction, but with instruments of knowledge and understanding."
+
+The goal was time-based, because the deadline was December 31, 1969.
+
+https://en.wikipedia.org/wiki/Apollo_11
+
+
+
+## Examples of goals
+
+[List one to three goals.]
+
+
+
+## 2. Actors
+
+Who can help or hinder achieving the goal?
+
+Individuals. Groups. Systems.
+
+
+
+## Primary actors
+
+Those whose goals are fulfilled.
+
+
+
+## Secondary actors
+
+Those who provide services.
+
+
+
+## Off-stage actors
+
+Those who have an interest but are not directly benefiting or providing a service.
+
+
+
+## 3. Impacts
+
+What should the actors do or not do to impact the goal?
+
+Behavior change.
+
+
+
+## 4. Deliverables
+
+How will you help the actors make the intended impact?
+
+Solutions.
+
+
+
+## 5. Experiments
+
+How can you verify whether the deliverable will have the intended impact?
+
+Research. Evidence.
 
 
 
