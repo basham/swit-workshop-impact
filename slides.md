@@ -5,7 +5,7 @@ Statewide IT 2022 Workshop
 Chris Basham
 
 Notes:
-Welcome everyone to this workshop. Today, we'll learn how to incorporate accessibility in the design process. First, let's start with some background and logistics.
+Welcome everyone to this workshop. Today, we'll learn about a technique known as impact mapping. First, let's start with some background and logistics.
 
 
 
@@ -56,47 +56,104 @@ Because there's a lot to cover, I request you to submit any questions you have i
 
 
 
-## Annotate
-
-Zoom → Toolbar → Annotate
-
-<figure>
-
-![Zoom annotation toolbar](assets/zoom-annotation-toolbar.png)
-
-  <figcaption>Experiment with the various Zoom annotation tools.</figcaption>
-</figure>
-
-<footer>
-
-See: [*Accessing and Using Annotation Tools in Zoom: Mac/Win*](https://help.lsit.ucsb.edu/hc/en-us/articles/360043613171-Accessing-and-Using-Annotation-Tools-in-Zoom-Mac-Win)
-
-</footer>
+## Impact mapping
 
 Notes:
-We may periodically use Zoom's annotation tools. So, let's get familiar with it. Look for the toolbar, that hovers over the screen. Click on the "Annotate" button to bring up annotation tools.
+This workshop is about a technique known as impact mapping. I stumbled across it over this last year, and it has helped me and my development team better think through the work we do, before we start working.
 
 
 
-## Impact map examples
+## Examples
+
+Notes:
+Before explaining what an impact map is and why to use it, let's briefly look at a couple "classic" examples.
 
 
 
-<figure>
+![Impact map with goal to increase mobile advertising](https://www.impactmapping.org/assets/im_template.png)
 
-![Impact map example](https://www.impactmapping.org/assets/im_template.png)
-
-  <figcaption>The first example map illustrates a milestone for a music information web site. The main business goal for the milestone is to increase mobile advertising revenue.</figcaption>
-</figure>
+Notes:
+Impact maps are arranged in a heirarchy, with each level having a unique meaning. A goal that is trying to be achieved is at the top, with everything below it representing things that will help to achieve that goal. In this example, the goal is to "increase mobile advertising" on a music information website.
 
 
 
-<figure>
+![Impact map with goal to obtain 1 million active players](https://www.impactmapping.org/assets/gaming_example.png)
 
-![Impact map example 2](https://www.impactmapping.org/assets/gaming_example.png)
+Notes:
+Not all impact maps have to look the same. The structure can be more loose. Levels don't have to be labeled. It could look more like a mind map. In this second example, the goal is for a gaming platform to obtain 1 million active players.
 
-  <figcaption>The second example map illustrates a milestone of an online gaming platform. The key business goal for this milestone is to increase the number of active players to 1 million.</figcaption>
-</figure>
+
+
+## Problem solving
+
+Cause → Effect
+
+Notes:
+A substantial amount of work we do in IT, the work we do in our personal lives, the work done in other disciplines and domains — can be described simply as problem solving. A cause will result in some effect. A particular solution will achieve a particular goal.
+
+
+
+## Problem solving
+
+Cause → Assumptions → Effect
+
+Notes:
+There is a lot between those ends. There is a lot of opportunities to get it wrong, to not achieve the desired effect or goal. Much of what prevents or hinders us from solving the problem is that we assume a particular cause will result in the desired effect.
+
+
+
+## Assumptions
+
+Unexamined. Unshared. Unproved.
+
+Notes:
+An assumption endangers a desired effect in three ways.
+
+
+
+## Unexamined assumptions
+
+Define the question.
+
+Notes:
+First, an assumption is unexamined when you may not be aware of it or when you may have not thought deeply about it. We can define what we do not know, by articulating it as a question.
+
+
+
+## Unshared<br>assumptions
+
+Communicate across disciples.
+
+Notes:
+Second, an assumption is unshared when it is not widely known. This breakdown easily happens across disciplines. For example, a designer may hand off a sketch of an interface to a developer. That sketch may include a button that behaves in a certain way that may be obvious to the designer and others in the design community, but it may not be obvious to a developer. Inevitably, a detail is overlooked which may have been caught earlier in the process. This may cause negative effects on the team or even on the end user experience.
+
+
+
+## Unproved<br>assumptions
+
+Verify with research.
+
+Notes:
+Third, an assumption is unproved when you do not verify that the cause will achieve the desired effect. Research helps to test hypothesises. You ask questions. You gather evidence. You analyze. If the hypothesis is proven wrong, you adapt and test again. If it is proven right, the hypothsis is verified, and you can move forward in confidence.
+
+
+
+## Overcoming assumptions
+
+||||
+|---|---|---|
+|Unexamined|→|Define|
+|Unshared|→|Communicate|
+|Unproved|→|Verify|
+
+Notes:
+In summary, as problem solvers, we need to have some way to define assumptions, communicate assumptions, and vertify assumptions. When we do this, we can more confidently know that a particular cause will result in the desired effect. Impact mapping helps us to do this.
+
+
+
+## Assumptions
+
+Solution-first → Goal-first
 
 
 
