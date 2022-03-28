@@ -6,8 +6,11 @@
  * Global styles
  */
  :root {
-  --color-accent: sandybrown;
-  --color-accent: tomato;
+  --color-swit-blue: #243142;
+  --color-swit-orange: #fba61a;
+  --color-swit-yellow: #f8d02d;
+  --color-accent: var(--color-swit-yellow);
+  --color-bg: var(--color-swit-blue);
   --color-base-0: #000;
   --color-base-1: #111;
   --color-base-2: #222;
@@ -16,7 +19,6 @@
   --color-base-7: #999;
   --color-base-8: #eee;
   --color-base-9: #fff;
-  --color-blue: deepskyblue;
   --fs-0: calc(32rem/40);
   --fs-1: 1rem;
   --fs-2: 2rem;
@@ -28,7 +30,7 @@ html {
 }
 
 .reveal-viewport {
-  background-color: var(--color-base-1);
+  background-color: var(--color-bg);
   color: var(--color-base-8);
   font-family: "Open Sans", sans-serif;
   line-height: 1.2;
