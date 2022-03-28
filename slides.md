@@ -61,13 +61,47 @@ Because there's a lot to cover, I request you to submit any questions you have i
 Deliver software in the right way.
 
 Notes:
-Iteration. Feedback. Learning.
+In UITS, most software teams use the Agile development process. You release features and updates in consistent intervals, such as every two weeks. This iteration provides opportunity for the team to get feedback, to learn, and to adapt. Every team will implement this methodology in different ways. Ultimately, the goal of any development methodology is to deliver software in the right way, a way that is predictable and ideally results in high quality work.
 
 
 
 ## Product discovery
 
 Deliver the right software.
+
+Notes:
+Your team may be able to deliver software in the right way, but it doesn't mean your team is delivering the right solutions. Product discovery does this. There are many techniques you can use to help your team during this phase.
+
+
+
+## Phases
+
+Product discovery → Agile
+
+Notes:
+You can think of product discovery as the first phase in the development process. Once your team identifies the right thing to do, then you can execute on delivering that right solution. What you do in product discovery feeds into the work you do in Agile.
+
+
+
+## Both phases are needed
+
+Product discovery + Agile
+
+Notes:
+We need both phases. Even if it is the most accessible and usable and delightful piece of software your team can deliver, if it doesn't solve the right problem, it is a waste of time. Users will be frustrated because they can't do what they really want. Stakeholders will be frustrated because their vision is not being achieved. The team will be frustrated because their work is ultimately without purpose.
+
+In contrast, if you know the right solution but have no means of executing it well, then the idea is never implemented or the implementation is ignored because of other factors, like poor user experience or late delivery.
+
+
+
+## Product discovery activities
+
+User research. Planning.
+
+Notes:
+The methods and approaches to product discovery depends on the questions you're asking. User research is a particular line of inquiry that a designer or researcher should be able to facilitate. This could include interviews, surveys, and prototype testing. But planning and other strategic lines of inquiry may involve the product owner or business analysist to explore other products, write user stories, ...
+
+These activities may happen before development or in parallel with developement efforts. The earlier you do them, the more efficient and less risky the process will be.
 
 
 
@@ -76,7 +110,9 @@ Deliver the right software.
 A product discovery technique that is an input to the Agile process.
 
 Notes:
-This workshop is about a technique known as impact mapping. I stumbled across it over this last year, and it has helped me and my development team better think through the work we do, before we start working.
+However, this workshop is specifically about only one approach, known as impact mapping. Impact mapping is meant to feed into the Agile process as 
+
+I stumbled across it over this last year, and it has helped me and my development team better think through the work we do, before we start working.
 
 
 
