@@ -429,6 +429,18 @@ https://www.hq.nasa.gov/alsj/ALSJ-FlightPLSS.pdf
 
 
 
+<figure class="fig-impact-map-outline-2 fig-impact-map-outline-2--short">
+
+# Go to the moon (Apollo missions)
+## Life support system
+### Maintain environment and atmosphere
+#### Primary life support system
+##### Test space suit in neutral buoyancy tanks
+
+</figure>
+
+
+
 ## Problem solving
 
 Cause → <span class="fragment">(Assumption) →</span> Effect
@@ -496,7 +508,9 @@ Deliverable → (Assumption) → Impact
 Actor → (Assumption) → Goal
 
 Notes:
-A deliverable will cause a desired impact toward achieving a goal. An actor will contribute toward achieving the goal.
+A deliverable will cause a desired impact toward achieving a goal. An actor (with agency, not necessarily a system) will contribute toward achieving the goal.
+
+Add fail-safes and redundancy. The more actors that can meaningfully contribute, the more likely no single actor can scuttle the goal.
 
 
 
