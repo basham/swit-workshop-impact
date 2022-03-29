@@ -56,36 +56,32 @@ Because there's a lot to cover, I request you to submit any questions you have i
 
 
 
-## Agile
+## Delivery
 
-Deliver software in the right way.
+Build the thing right.
 
 Notes:
 In UITS, most software teams use the Agile development process. You release features and updates in consistent intervals, such as every two weeks. This iteration provides opportunity for the team to get feedback, to learn, and to adapt. Every team will implement this methodology in different ways. Ultimately, the goal of any development methodology is to deliver software in the right way, a way that is predictable and ideally results in high quality work.
 
 
 
-## Product discovery
+## Discovery
 
-Deliver the right software.
+Build the right thing.
 
 Notes:
 Your team may be able to deliver software in the right way, but it doesn't mean your team is delivering the right solutions. Product discovery does this. There are many techniques you can use to help your team during this phase.
 
 
 
-## Phases
-
-Product discovery → Agile
+## Discovery<br>↓<br>Delivery
 
 Notes:
 You can think of product discovery as the first phase in the development process. Once your team identifies the right thing to do, then you can execute on delivering that right solution. What you do in product discovery feeds into the work you do in Agile.
 
 
 
-## Both phases are needed
-
-Product discovery + Agile
+## Discovery<br>+<br>Delivery
 
 Notes:
 We need both phases. Even if it is the most accessible and usable and delightful piece of software your team can deliver, if it doesn't solve the right problem, it is a waste of time. Users will be frustrated because they can't do what they really want. Stakeholders will be frustrated because their vision is not being achieved. The team will be frustrated because their work is ultimately without purpose.
@@ -94,25 +90,49 @@ In contrast, if you know the right solution but have no means of executing it we
 
 
 
-## Product discovery activities
+## Discovery activities
 
-User research. Planning.
+Problem space
+
+Solution space
 
 Notes:
-The methods and approaches to product discovery depends on the questions you're asking. User research is a particular line of inquiry that a designer or researcher should be able to facilitate. This could include interviews, surveys, and prototype testing. But planning and other strategic lines of inquiry may involve the product owner or business analysist to explore other products, write user stories, ...
+There is no prescribed way to conduct the work you do in a discovery phase. Teams will need to find their own way, that fits best according to their situation and constraints. But the activities themselves can be grouped into two main categories: the problem space and the solution space. Successful teams invest more time in the problem space than the solution space.
 
-These activities may happen before development or in parallel with developement efforts. The earlier you do them, the more efficient and less risky the process will be.
+Source: https://herbig.co/product-discovery/
+
+
+
+## Problem space
+
+"Why is this a problem worth solving?"
+
+Align + Research
+
+Notes:
+When you work in the problem space, you ask the question, "Why is this a problem worth solving?" You answer this when your team gets alignment with your stakeholders about goals, priorities, and measurements of success. You answer this when your team conducts research with users to understand what they do and why they do it.
+
+
+
+## Solution space
+
+"What solutions are worth pursuing?"
+
+Ideate + Create + Test + Refine
+
+Notes:
+When you work in the solution space, you ask the question, "What solutions are worth pursuing?" In these activites, you ideate to explore possibilities; you create prototypes; you test those possible solutions; and you refine them based on what you've learned.
 
 
 
 ## Impact mapping
 
-A product discovery technique that is an input to the Agile process.
+Align + Research + Ideate + Test
 
 Notes:
-However, this workshop is specifically about only one approach, known as impact mapping. Impact mapping is meant to feed into the Agile process as 
+This workshop is specifically about one discovery technique, known as impact mapping. This technique is useful for making progress in both the problem space and the solution space. It helps the team stay aligned with stakeholders. It helps identify and prioritize research questions. It helps the team to explore different options and identify how to test those options.
 
-I stumbled across it over this last year, and it has helped me and my development team better think through the work we do, before we start working.
+I stumbled across impact mapping over this last year. It has helped me and my development team better think through the work we do, before we start working.
 
 
 
@@ -150,7 +170,7 @@ The map can be a collaboration between the team and stakeholders, so there's an 
 
 ## Problem solving
 
-Cause → <span class="fragment">Assumptions →</span> Effect
+Cause → <span class="fragment">(Assumptions) →</span> Effect
 
 Notes:
 A substantial amount of work we do in IT, the work we do in our personal lives, the work done in other disciplines and domains — can be described simply as problem solving. A cause will result in some effect. A particular solution will achieve a particular goal.
@@ -164,9 +184,7 @@ There is a lot between those ends. There is a lot of opportunities to get it wro
 Unexamined. Unshared. Unproved.
 
 Notes:
-An assumption endangers a desired effect in three ways.
-
-A deliverable will cause a desired impact toward achieving a goal. An actor will contribute toward achieving the goal.
+An assumption endangers a desired effect in three ways. They can be unexamined, unshared, unproved, or a mix of them.
 
 
 
@@ -184,13 +202,13 @@ First, an assumption is unexamined when you may not be aware of it or when you m
 Communicate across disciples.
 
 Notes:
-Second, an assumption is unshared when it is not widely known. This breakdown easily happens across disciplines. For example, a designer may hand off a sketch of an interface to a developer. That sketch may include a button that behaves in a certain way that may be obvious to the designer and others in the design community, but it may not be obvious to a developer. Inevitably, a detail is overlooked which may have been caught earlier in the process. This may cause negative effects on the team or even on the end user experience.
+Second, an assumption is unshared when it is not widely known. This breakdown easily happens across disciplines. For example, a designer may hand off a sketch of an interface to a developer. That sketch may include a button that behaves in a certain way that may be obvious to the designer and other designers, but it may not be obvious to a developer. Inevitably, a detail is overlooked which may have been caught earlier in the process. This may cause negative effects on the team or even on the end user experience.
 
 
 
 ## Unproved<br>assumptions
 
-Verify with research.
+Test with research.
 
 Notes:
 Third, an assumption is unproved when you do not verify that the cause will achieve the desired effect. Research helps to test hypothesises. You ask questions. You gather evidence. You analyze. If the hypothesis is proven wrong, you adapt and test again. If it is proven right, the hypothsis is verified, and you can move forward in confidence.
@@ -199,14 +217,14 @@ Third, an assumption is unproved when you do not verify that the cause will achi
 
 ## Overcoming assumptions
 
-||||
+|Assumption||Activity|
 |---|---|---|
 |Unexamined|→|Define|
 |Unshared|→|Communicate|
-|Unproved|→|Verify|
+|Unproved|→|Test|
 
 Notes:
-In summary, as problem solvers, we need to have some way to define assumptions, communicate assumptions, and vertify assumptions. When we do this, we can more confidently know that a particular cause will result in the desired effect. Impact mapping helps us to do this.
+In summary, as problem solvers, we need to have some way to define assumptions, communicate assumptions, and test assumptions. When we do this, we can more confidently know that a particular cause will result in the desired effect. Impact mapping helps us to do this.
 
 
 
@@ -252,7 +270,7 @@ Business goals may involve saving time, making money, or reducing costs.
 
 ## Governmental goals
 
-Social welfare. Infrastructure. Security.
+Social welfare. Economy. Infrastructure. Security.
 
 Notes:
 Governmental goals is often more ambitious and broad. It may involve social welfare, infrastructure, or security.
@@ -369,6 +387,9 @@ Research. Evidence.
 ## Assumptions
 
 Solution-first → Goal-first
+
+Notes:
+A deliverable will cause a desired impact toward achieving a goal. An actor will contribute toward achieving the goal.
 
 
 
