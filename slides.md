@@ -168,66 +168,6 @@ The map can be a collaboration between the team and stakeholders, so there's an 
 
 
 
-## Problem solving
-
-Cause → <span class="fragment">(Assumptions) →</span> Effect
-
-Notes:
-A substantial amount of work we do in IT, the work we do in our personal lives, the work done in other disciplines and domains — can be described simply as problem solving. A cause will result in some effect. A particular solution will achieve a particular goal.
-
-There is a lot between those ends. There is a lot of opportunities to get it wrong, to not achieve the desired effect or goal. Much of what prevents or hinders us from solving the problem is that we assume a particular cause will result in the desired effect.
-
-
-
-## Assumptions
-
-Unexamined. Unshared. Unproved.
-
-Notes:
-An assumption endangers a desired effect in three ways. They can be unexamined, unshared, unproved, or a mix of them.
-
-
-
-## Unexamined assumptions
-
-Define the question.
-
-Notes:
-First, an assumption is unexamined when you may not be aware of it or when you may have not thought deeply about it. We can define what we do not know, by articulating it as a question.
-
-
-
-## Unshared<br>assumptions
-
-Communicate across disciples.
-
-Notes:
-Second, an assumption is unshared when it is not widely known. This breakdown easily happens across disciplines. For example, a designer may hand off a sketch of an interface to a developer. That sketch may include a button that behaves in a certain way that may be obvious to the designer and other designers, but it may not be obvious to a developer. Inevitably, a detail is overlooked which may have been caught earlier in the process. This may cause negative effects on the team or even on the end user experience.
-
-
-
-## Unproved<br>assumptions
-
-Test with research.
-
-Notes:
-Third, an assumption is unproved when you do not verify that the cause will achieve the desired effect. Research helps to test hypothesises. You ask questions. You gather evidence. You analyze. If the hypothesis is proven wrong, you adapt and test again. If it is proven right, the hypothsis is verified, and you can move forward in confidence.
-
-
-
-## Overcoming assumptions
-
-|Assumption||Activity|
-|---|---|---|
-|Unexamined|→|Define|
-|Unshared|→|Communicate|
-|Unproved|→|Test|
-
-Notes:
-In summary, as problem solvers, we need to have some way to define assumptions, communicate assumptions, and test assumptions. When we do this, we can more confidently know that a particular cause will result in the desired effect. Impact mapping helps us to do this.
-
-
-
 ## Structure
 
 1. Goal
@@ -237,13 +177,13 @@ In summary, as problem solvers, we need to have some way to define assumptions, 
 5. Experiments
 
 Notes:
-Generally, the hierarchy of an impact map is composed of five layers: goals, actors, impacts, deliverables, and experiments.
+Generally, the hierarchy of an impact map is composed of five levels: goals, actors, impacts, deliverables, and experiments.
 
 
 
 ## 1. Goal
 
-What are you trying to achieve?
+"What are you trying to achieve?"
 
 Notes:
 The top of an impact map is the goal. Have one goal per impact map. The goal should answer the question, "What are you trying to achieve?"
@@ -273,7 +213,7 @@ Business goals may involve saving time, making money, or reducing costs.
 Social welfare. Economy. Infrastructure. Security.
 
 Notes:
-Governmental goals is often more ambitious and broad. It may involve social welfare, infrastructure, or security.
+Governmental goals is often more ambitious and broad. It may involve social welfare, the economy, infrastructure, or security.
 
 
 
@@ -311,9 +251,28 @@ https://er.jsc.nasa.gov/seh/ricetalk.htm
 
 ## The Eagle has landed
 
-In July 1969, the crew of Apollo 11 landed on the moon, explored for over two hours, and returned safely to Earth.
+In July 1969, the crew of Apollo 11:
+
+- landed on the moon
+- explored for over two hours
+- returned safely to Earth
 
 Notes:
+In July 1969, the crew of Apollo 11 achieved the goal set by JFK. They landed on the moon, explored for over two hours, and returned safely to Earth.
+
+
+
+|||
+|---|---|
+|**Specific**|Moon. Rocket.|
+|**Measureable**|Lunar material. Survive. First.|
+|**Achievable**|Invest in jobs and tech.|
+|**Relevant**|Cold war.|
+|**Time-based**|Dec 31, 1969.|
+
+Notes:
+Let's examine this goal a little more, through the lens of SMART.
+
 The goal was specific. It involved the moon and a rocket.
 
 The goal was measurable. The crew collected 47.5 pounds of lunar material. The crew returned and survived. The U.S. was the first nation to do it.
@@ -328,65 +287,213 @@ https://en.wikipedia.org/wiki/Apollo_11
 
 
 
-## Examples of goals
+## Goal ≠ Mission
 
-[List one to three goals.]
+Notes:
+A goal should not be confused with a vision or mission statement.
+
+
+
+## NASA's mission
+
+- Research Earth and beyond
+- Develop and fund space tech
+- Conduct space exploration
+- Share with world
+
+Notes:
+For example, NASA has a few different aims. It researches Earth, the solar system, and beyond. It develops and funds space technologies. It conducts space exploration, with humans soon to be travel to the moon and to Mars. And it does all this with the ultimate vision of benefiting all humankind, by sharing discoveries which results in new products for the public and new knowledge for the next generation.
+
+Each of these can be broken down into goals, but they are not goals in themselves.
+
+https://www.nasa.gov/about/index.html
 
 
 
 ## 2. Actors
 
-Who can help or hinder achieving the goal?
+"Who can help or hinder achieving the goal?"
 
 Individuals. Groups. Systems.
 
 
 
-## Primary actors
+## Individuals
 
-Those whose goals are fulfilled.
-
-
-
-## Secondary actors
-
-Those who provide services.
+- Astronauts
+- Analysts
+- Engineers
+- President
+- Spies
 
 
 
-## Off-stage actors
+## Groups
 
-Those who have an interest but are not directly benefiting or providing a service.
+- Congress
+- Other U.S. agencies
+- Companies
+- American public
+- Soviet Union (USSR)
+
+
+
+## Systems
+
+- Infrastructure
+- Supply chains
+- Communication
+- Life support
+- Nature and space
+
+
+
+## Prioritizing actors
+
+Rank. Sort. Focus. Revisit.
+
+Notes:
+In any given problem space, there can be an abundance of actors. Some may be more obvious than others. Take time to brainstorm. But ultimately, you need to determine which actors can provide the biggest impact toward achieving a goal. Select the top ones and order them by that expected impact. Revisit and refine this list as you learn more and as you make progress.
 
 
 
 ## 3. Impacts
 
-What should the actors do or not do to impact the goal?
+"What should the actors do or not do<br>to impact the goal?"
 
 Behavior change.
 
 
 
+## Astronauts
+
+- Study
+- Train and practice
+
+
+
+## Congress
+
+- Fund NASA
+- Rally public support
+
+
+
+## Life support
+
+- Maintain pressure and temperature
+- Filter and purify air
+- Recycle and store water
+
+Notes:
+https://www.nasa.gov/content/life-support-systems
+
+
+
 ## 4. Deliverables
 
-How will you help the actors make the intended impact?
+"How will you help the actors<br>make the intended impact?"
 
 Solutions.
 
 
 
+## Space suits
+
+Primary life support system (PPLS)
+
+<img alt="A portable life support system from the Apollo A7L suit, with its outer cover removed" src="https://upload.wikimedia.org/wikipedia/commons/7/74/A7L_plss.jpg" height="500">
+
+Notes:
+https://en.wikipedia.org/wiki/Primary_life_support_system
+
+
+
 ## 5. Experiments
 
-How can you verify whether the deliverable will have the intended impact?
+"How can you test whether the deliverable<br>will have the intended impact?"
 
 Research. Evidence.
 
 
 
+## Testing the PLSS
+
+- Neutral buoyancy tanks (Dallas)
+- Orbit (Apollo 9)
+
+Notes:
+https://en.wikipedia.org/wiki/Primary_life_support_system
+
+https://www.hq.nasa.gov/alsj/ALSJ-FlightPLSS.pdf
+
+
+
+## Problem solving
+
+Cause → <span class="fragment">(Assumption) →</span> Effect
+
+Notes:
+A substantial amount of work we do in IT, the work we do in our personal lives, the work done in other disciplines and domains — can be described simply as problem solving. A cause will result in some effect. A particular solution will achieve a particular goal.
+
+There is a lot between those ends. There is a lot of opportunities to get it wrong, to not achieve the desired effect or goal. Much of what prevents or hinders us from solving the problem is that we assume a particular cause will result in the desired effect.
+
+
+
 ## Assumptions
 
-Solution-first → Goal-first
+Unexamined. Unshared. Unproved.
+
+Notes:
+An assumption endangers a desired effect in three ways. They can be unexamined, unshared, unproved, or a mix of them.
+
+
+
+## Unexamined assumptions
+
+Define the question.
+
+Notes:
+First, an assumption is unexamined when you may not be aware of it or when you may have not thought deeply about it. We can define what we do not know, by articulating it as a question.
+
+
+
+## Unshared<br>assumptions
+
+Communicate across disciplines.
+
+Notes:
+Second, an assumption is unshared when it is not widely known. This breakdown easily happens across disciplines. For example, a designer may hand off a sketch of an interface to a developer. That sketch may include a button that behaves in a certain way that may be obvious to the designer and other designers, but it may not be obvious to a developer. Inevitably, a detail is overlooked which may have been caught earlier in the process. This may cause negative effects on the team or even on the end user experience.
+
+
+
+## Unproved<br>assumptions
+
+Test with research.
+
+Notes:
+Third, an assumption is unproved when you do not verify that the cause will achieve the desired effect. Research helps to test hypothesises. You ask questions. You gather evidence. You analyze. If the hypothesis is proven wrong, you adapt and test again. If it is proven right, the hypothsis is verified, and you can move forward in confidence.
+
+
+
+## Overcoming assumptions
+
+|Assumption||Activity|
+|---|---|---|
+|Unexamined|→|Define|
+|Unshared|→|Communicate|
+|Unproved|→|Test|
+
+Notes:
+In summary, as problem solvers, we need to have some way to define assumptions, communicate assumptions, and test assumptions. When we do this, we can more confidently know that a particular cause will result in the desired effect. Impact mapping helps us to do this.
+
+
+
+## Two big assumptions
+
+Deliverable → (Assumption) → Impact
+
+Actor → (Assumption) → Goal
 
 Notes:
 A deliverable will cause a desired impact toward achieving a goal. An actor will contribute toward achieving the goal.
