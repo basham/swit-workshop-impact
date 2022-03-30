@@ -121,7 +121,7 @@ When you work in the problem space, you ask the question, "Why is this a problem
 Ideate + Create + Test + Refine
 
 Notes:
-When you work in the solution space, you ask the question, "What solutions are worth pursuing?" In these activites, you ideate to explore possibilities; you create prototypes; you test those possible solutions; and you refine them based on what you've learned.
+When you work in the solution space, you ask the question, "What solutions are worth pursuing?" In these activities, you ideate to explore possibilities; you create prototypes; you test those possible solutions; and you refine them based on what you've learned.
 
 
 
@@ -146,7 +146,7 @@ Before explaining what an impact map is and why to use it, let's briefly look at
 ![Impact map with goal to increase mobile advertising](https://www.impactmapping.org/assets/im_template.png)
 
 Notes:
-Impact maps are arranged in a heirarchy, with each level having a unique meaning. A goal that is trying to be achieved is at the top, with everything below it representing things that will help to achieve that goal. In this example, the goal is to "increase mobile advertising" on a music information website.
+Impact maps are arranged in a hierarchy, with each level having a unique meaning. A goal that is trying to be achieved is at the top, with everything below it representing things that will help to achieve that goal. In this example, the goal is to "increase mobile advertising" on a music information website.
 
 
 
@@ -265,7 +265,7 @@ In July 1969, the crew of Apollo 11 achieved the goal set by JFK. They landed on
 |||
 |---|---|
 |**Specific**|Moon. Rocket.|
-|**Measureable**|Lunar material. Survive. First.|
+|**Measurable**|Lunar material. Survive. First.|
 |**Achievable**|Invest in jobs and tech.|
 |**Relevant**|Cold war.|
 |**Time-based**|Dec 31, 1969.|
@@ -356,7 +356,7 @@ As for groups, Congress and other government agencies would also be involved wit
 - Nature and space
 
 Notes:
-There are also many systems that need to be taken into account. Road and rail infrastructure is need to transport supplies. Utilties provide essentials for factories. Reliable communication and life support is needed to make the space missions viable. And you also need to consider that nature itself is a system. You need good breaks in the weather for rocket launches.
+There are also many systems that need to be taken into account. Road and rail infrastructure is need to transport supplies. Utilities provide essentials for factories. Reliable communication and life support is needed to make the space missions viable. And you also need to consider that nature itself is a system. You need good breaks in the weather for rocket launches.
 
 
 
@@ -386,7 +386,7 @@ The third level is impacts. It asks the question, "What should the actors do or 
 - Train and practice
 
 Notes:
-For example, astronaunts need to study, so they know as much about the equipment they're using as the engineers that built them. They need to train and practice so they're in shape and are ready for any situation.
+For example, astronauts need to study, so they know as much about the equipment they're using as the engineers that built them. They need to train and practice so they're in shape and are ready for any situation.
 
 
 
@@ -407,7 +407,7 @@ Congress needs to fund NASA, and they should use their influence to rally for pu
 - Recycle and store water
 
 Notes:
-The life support system needs to monitor and manage the environments in which that astronauts will live and work. Practically, pressure, temperature, and humidity needs to be maintained. Oxygen needs to be produced from wastewater, and cleared of carbon dioxode and volatile gases. Air needs to be ventilated. Water needs to be recycled and stored.
+The life support system needs to monitor and manage the environments in which that astronauts will live and work. Practically, pressure, temperature, and humidity needs to be maintained. Oxygen needs to be produced from wastewater, and cleared of carbon dioxide and volatile gases. Air needs to be ventilated. Water needs to be recycled and stored.
 
 https://www.nasa.gov/content/life-support-systems
 
@@ -426,12 +426,22 @@ The fourth level of impact maps is deliverables. It asks the question, "How will
 
 ## Space suits
 
-Primary life support system (PPLS)
-
-<img alt="A portable life support system from the Apollo A7L suit, with its outer cover removed" src="https://upload.wikimedia.org/wikipedia/commons/7/74/A7L_plss.jpg" height="500">
+Portable life support system (PLSS)
 
 Notes:
+Astronauts will need to step out of their crafts and enter space or the lunar surface. So, they'll need space suits. And in order for them to maximize mobility, each suit will need its own portable life support system. This is abbreviated to PLSS.
+
 https://en.wikipedia.org/wiki/Primary_life_support_system
+
+
+
+<img src="assets/ALSJ-FlightPLSS-figure-15.jpg" alt="Second-generation PLSS, uncovered, with labels pointing out various submodules." height="700">
+
+Notes:
+This image shows an inside look at the second-generation PLSS. It is the "backpack" that the astronauts wear. Throughout the Apollo Program, there were eight configurations of the PLSS. There was a lot to learn and test along that journey.
+
+*The Apollo Portable Life Support System*. Figure 15, page 15.
+https://www.hq.nasa.gov/alsj/ALSJ-FlightPLSS.pdf
 
 
 
@@ -441,6 +451,9 @@ https://en.wikipedia.org/wiki/Primary_life_support_system
 
 Research. Evidence.
 
+Notes:
+The fifth and final level of impact maps is experiments. This asks the question, "How can you test whether the deliverable will have the intended impact?" This will require research and evidence. What you learn from these experiments may result in the solution needing to be refined or new solutions to be explored.
+
 
 
 ## Testing the PLSS
@@ -449,8 +462,18 @@ Research. Evidence.
 - Orbit (Apollo 9)
 
 Notes:
+There were two notable tests of the portable life support system. The first was on Earth, in the neutral buoyancy tanks, in Dallas, Texas. The second was in orbit, during the Apollo 9 mission. Together, this proved the space suits would ready for a lunar landing, during the Apollo 11 mission.
+
 https://en.wikipedia.org/wiki/Primary_life_support_system
 
+
+
+<img src="assets/ALSJ-FlightPLSS-figure-26.jpg" alt="The pilot of Apollo 9 ventures into Earth orbit outside of the craft, with a camera attached to chest. Earth reflects on his helmet visor." height="700">
+
+Notes:
+Pilot Rusty Schweickart performed the first in-space test of the PLSS, during the Apollo 9 mission, in March 1969.
+
+*The Apollo Portable Life Support System*. Figure 26, page 24.
 https://www.hq.nasa.gov/alsj/ALSJ-FlightPLSS.pdf
 
 
@@ -460,10 +483,16 @@ https://www.hq.nasa.gov/alsj/ALSJ-FlightPLSS.pdf
 # Go to the moon (Apollo missions)
 ## Life support system
 ### Maintain environment and atmosphere
-#### Primary life support system
-##### Test space suit in neutral buoyancy tanks
+#### Portable life support system
+##### Neutral buoyancy tanks
+##### Orbit
 
 </figure>
+
+Notes:
+Now, let's arrange a line of these items together in an impact map. You can clearly see how the individual experiments (at the bottom of the map) feeds into the larger goal (at the top of the map). To go to moon, the life support system needs to maintain environment and atmosphere. It needs to do this within a space suit, so the crew can explore the lunar surface. The portable life support system will be tested both on Earth and in Earth orbit, to make sure it is ready for the lunar mission.
+
+This impact map can grow to be as complex and detailed as the problem warrants. And going to the moon is a big and complex problem. So, you can imagine how necessary it is to have some grasp on how the little details involving thousands of hours and millions of dollars, will result in the bigger achievement.
 
 
 
@@ -472,6 +501,8 @@ https://www.hq.nasa.gov/alsj/ALSJ-FlightPLSS.pdf
 Cause → <span class="fragment">(Assumption) →</span> Effect
 
 Notes:
+Now that I've explained the basics of impact mapping and given you an example, let's step back for a bit.
+
 A substantial amount of work we do in IT, the work we do in our personal lives, the work done in other disciplines and domains — can be described simply as problem solving. A cause will result in some effect. A particular solution will achieve a particular goal.
 
 There is a lot between those ends. There is a lot of opportunities to get it wrong, to not achieve the desired effect or goal. Much of what prevents or hinders us from solving the problem is that we assume a particular cause will result in the desired effect.
@@ -492,7 +523,7 @@ An assumption endangers a desired effect in three ways. They can be unexamined, 
 Define the question.
 
 Notes:
-First, an assumption is unexamined when you may not be aware of it or when you may have not thought deeply about it. We can define what we do not know, by articulating it as a question.
+First, an assumption is unexamined when you may not be aware of it or when you may have not thought deeply about it. We can define what we do not know, by writing it down or even rephrasing it as a question.
 
 
 
@@ -510,7 +541,7 @@ Second, an assumption is unshared when it is not widely known. This breakdown ea
 Test with research.
 
 Notes:
-Third, an assumption is unproved when you do not verify that the cause will achieve the desired effect. Research helps to test hypothesises. You ask questions. You gather evidence. You analyze. If the hypothesis is proven wrong, you adapt and test again. If it is proven right, the hypothsis is verified, and you can move forward in confidence.
+Third, an assumption is unproved when you do not verify that the cause will achieve the desired effect. Research helps to test hypotheses. You ask questions. You gather evidence. You analyze. If the hypothesis is proven wrong, you adapt and test again. If it is proven right, the hypothesis is verified, and you can move forward in confidence.
 
 
 
