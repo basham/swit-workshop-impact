@@ -316,6 +316,9 @@ https://www.nasa.gov/about/index.html
 
 Individuals. Groups. Systems.
 
+Notes:
+After goals, the second level is actors. Actors are those who can help or hinder achieving the goal. They can be individuals, groups, or even systems.
+
 
 
 ## Individuals
@@ -323,8 +326,11 @@ Individuals. Groups. Systems.
 - Astronauts
 - Analysts
 - Engineers
-- President
+- U.S. President
 - Spies
+
+Notes:
+Returning to the goal of going to the moon, there are thousands of individuals involved. There are roles at NASA that make obvious contributions to the goal: astronauts, analysts, and engineers. The U.S. President set the goal and is a primary stakeholder. And the government would also be concerned about spies, trying to steal information to advantage the Soviet's space efforts.
 
 
 
@@ -336,6 +342,9 @@ Individuals. Groups. Systems.
 - American public
 - Soviet Union (USSR)
 
+Notes:
+As for groups, Congress and other government agencies would also be involved with the mission. Companies help to source material and make necessary products for the mission. The support of the American public is needed. And of course, the Soviet Union is the competition.
+
 
 
 ## Systems
@@ -346,6 +355,9 @@ Individuals. Groups. Systems.
 - Life support
 - Nature and space
 
+Notes:
+There are also many systems that need to be taken into account. Road and rail infrastructure is need to transport supplies. Utilties provide essentials for factories. Reliable communication and life support is needed to make the space missions viable. And you also need to consider that nature itself is a system. You need good breaks in the weather for rocket launches.
+
 
 
 ## Prioritizing actors
@@ -353,7 +365,7 @@ Individuals. Groups. Systems.
 Rank. Sort. Focus. Revisit.
 
 Notes:
-In any given problem space, there can be an abundance of actors. Some may be more obvious than others. Take time to brainstorm. But ultimately, you need to determine which actors can provide the biggest impact toward achieving a goal. Select the top ones and order them by that expected impact. Revisit and refine this list as you learn more and as you make progress.
+In any given problem space, there can be an abundance of actors. Some may be more obvious than others. Take time to brainstorm. But ultimately, you need to determine which actors can provide the biggest impact toward achieving a goal. Select the top ones and order them by that expected impact. Consider the motivations of the actors, toward or against the goal. Revisit and refine this list as you learn more and as you make progress.
 
 
 
@@ -363,6 +375,9 @@ In any given problem space, there can be an abundance of actors. Some may be mor
 
 Behavior change.
 
+Notes:
+The third level is impacts. It asks the question, "What should the actors do or not do to impact the goal?" Ultimately, you are wanting to identify the change of behavior which should result in progress toward achieving the goal.
+
 
 
 ## Astronauts
@@ -370,12 +385,18 @@ Behavior change.
 - Study
 - Train and practice
 
+Notes:
+For example, astronaunts need to study, so they know as much about the equipment they're using as the engineers that built them. They need to train and practice so they're in shape and are ready for any situation.
+
 
 
 ## Congress
 
 - Fund NASA
 - Rally public support
+
+Notes:
+Congress needs to fund NASA, and they should use their influence to rally for public support of the program.
 
 
 
@@ -386,6 +407,8 @@ Behavior change.
 - Recycle and store water
 
 Notes:
+The life support system needs to monitor and manage the environments in which that astronauts will live and work. Practically, pressure, temperature, and humidity needs to be maintained. Oxygen needs to be produced from wastewater, and cleared of carbon dioxode and volatile gases. Air needs to be ventilated. Water needs to be recycled and stored.
+
 https://www.nasa.gov/content/life-support-systems
 
 
@@ -395,6 +418,9 @@ https://www.nasa.gov/content/life-support-systems
 "How will you help the actors<br>make the intended impact?"
 
 Solutions.
+
+Notes:
+The fourth level of impact maps is deliverables. It asks the question, "How will you help the actors make the intended impact?" These are the solutions you may provide.
 
 
 
