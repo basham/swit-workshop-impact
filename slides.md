@@ -24,12 +24,12 @@ I'm Chris Basham. I've worked at Indiana University since 2012, as a UX designer
 
 ## Outline
 
-| Time  | Duration | Description  |
-| -----:| --------:| ------------ |
-| 9:30  |      10m | Introduction |
-| 9:40  |      45m | Part 1       |
-| 10:25 |       5m | Break        |
-| 10:30 |      60m | Part 2       |
+| Time  | Duration | Description      |
+| -----:| --------:| ---------------- |
+| 9:30  |      10m | Introduction     |
+| 9:40  |      45m | Part 1: Learn    |
+| 10:25 |       5m | Break            |
+| 10:30 |      60m | Part 2: Practice |
 
 Notes:
 The workshop today is split into 3 major sections, over the course of 3 hours. Each section will be divided by 10 minute breaks.
@@ -57,6 +57,8 @@ Because there's a lot to cover, I request you to submit any questions you have i
 
 
 # Part 1
+
+Learn about impact maps
 
 Notes:
 In the first part of the workshop, we'll learn about impact maps and how they fit into the work we do.
@@ -592,7 +594,9 @@ In summary, as problem solvers, we need to have some way to define assumptions, 
 
 
 
-# Collaborating on impact maps
+# Part 2
+
+Practice making impact maps
 
 
 
