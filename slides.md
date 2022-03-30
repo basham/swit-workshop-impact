@@ -56,6 +56,13 @@ Because there's a lot to cover, I request you to submit any questions you have i
 
 
 
+# Part 1
+
+Notes:
+In the first part of the workshop, we'll learn about impact maps and how they fit into the work we do.
+
+
+
 ## Delivery
 
 Build the thing right.
@@ -127,7 +134,7 @@ When you work in the solution space, you ask the question, "What solutions are w
 
 ## Impact mapping
 
-Align + Research + Ideate + Test
+Problem space + Solution space
 
 Notes:
 This workshop is specifically about one discovery technique, known as impact mapping. This technique is useful for making progress in both the problem space and the solution space. It helps the team stay aligned with stakeholders. It helps identify and prioritize research questions. It helps the team to explore different options and identify how to test those options.
@@ -178,6 +185,27 @@ The map can be a collaboration between the team and stakeholders, so there's an 
 
 Notes:
 Generally, the hierarchy of an impact map is composed of five levels: goals, actors, impacts, deliverables, and experiments.
+
+
+
+## Problem space
+
+1. Goal <span class="fragment" data-fragment-index="1">(align)</span>
+2. Actors <span class="fragment" data-fragment-index="1">(align + research)</span>
+3. Impacts <span class="fragment" data-fragment-index="1">(align + research)</span>
+
+Notes:
+The first three levels (goal, actors, and impacts) represent the problem space. Here, focusing on aligning and researching. This is the space where it can be beneficial to collaborate with stakeholders.
+
+
+
+## Solution space
+
+4. Deliverables <span class="fragment" data-fragment-index="1">(ideate + create + refine)</span>
+5. Experiments <span class="fragment" data-fragment-index="1">(test)</span>
+
+Notes:
+The last two levels (deliverables and experiments) represent the solution space. Here, focus on ideating, creating, testing, and refining. This is the space where stakeholders shouldn't be too involved.
 
 
 
@@ -264,7 +292,7 @@ In July 1969, the crew of Apollo 11 achieved the goal set by JFK. They landed on
 
 |||
 |---|---|
-|**Specific**|Moon. Rocket.|
+|**Specific**|Moon. Rocket. USA.|
 |**Measurable**|Lunar material. Survive. First.|
 |**Achievable**|Invest in jobs and tech.|
 |**Relevant**|Cold war.|
@@ -273,7 +301,7 @@ In July 1969, the crew of Apollo 11 achieved the goal set by JFK. They landed on
 Notes:
 Let's examine this goal a little more, through the lens of SMART.
 
-The goal was specific. It involved the moon and a rocket.
+The goal was specific. It involved the moon, a rocket, and the United States.
 
 The goal was measurable. The crew collected 47.5 pounds of lunar material. The crew returned and survived. The U.S. was the first nation to do it.
 
@@ -498,80 +526,73 @@ This impact map can grow to be as complex and detailed as the problem warrants. 
 
 ## Problem solving
 
-Cause → <span class="fragment">(Assumption) →</span> Effect
+Solution → <span class="fragment">(Assumption) →</span> Fix problem
 
 Notes:
 Now that I've explained the basics of impact mapping and given you an example, let's step back for a bit.
 
-A substantial amount of work we do in IT, the work we do in our personal lives, the work done in other disciplines and domains — can be described simply as problem solving. A cause will result in some effect. A particular solution will achieve a particular goal.
+A substantial amount of work we do in IT, the work we do in our personal lives, the work done in other disciplines and domains — can be described simply as problem solving. A particular solution will fix a particular problem or achieve a particular goal.
 
-There is a lot between those ends. There is a lot of opportunities to get it wrong, to not achieve the desired effect or goal. Much of what prevents or hinders us from solving the problem is that we assume a particular cause will result in the desired effect.
+There is a lot between those ends. There is a lot of opportunities to get it wrong. Much of what prevents or hinders us from solving the problem is that we assume a particular solution will result in the desired effect.
 
 
 
 ## Assumptions
 
-Unexamined. Unshared. Unproved.
+Unexamined. Unproved. Unshared.
 
 Notes:
-An assumption endangers a desired effect in three ways. They can be unexamined, unshared, unproved, or a mix of them.
+An assumption endangers a desired effect in three ways. They can be unexamined, unproved, unshared, or a mix of them.
 
 
 
-## Unexamined assumptions
+## Unexamined
 
-Define the question.
+Make an impact map.
 
-Notes:
-First, an assumption is unexamined when you may not be aware of it or when you may have not thought deeply about it. We can define what we do not know, by writing it down or even rephrasing it as a question.
-
-
-
-## Unshared<br>assumptions
-
-Communicate across disciplines.
+Deliverable → (Assumption) → Impact
 
 Notes:
-Second, an assumption is unshared when it is not widely known. This breakdown easily happens across disciplines. For example, a designer may hand off a sketch of an interface to a developer. That sketch may include a button that behaves in a certain way that may be obvious to the designer and other designers, but it may not be obvious to a developer. Inevitably, a detail is overlooked which may have been caught earlier in the process. This may cause negative effects on the team or even on the end user experience.
+First, an assumption is unexamined when you may not be aware of it or when you may have not thought deeply about it. We can define what we do not know, by writing it down. An impact map is a great way to expose those assumptions, because you see the connections. You assume a deliverable will result in a particular impact, that the solution will solve the problem.
 
 
 
-## Unproved<br>assumptions
+## Unproved
 
-Test with research.
+Test and refine.
+
+Deliverable → (Experiment) → Impact
 
 Notes:
-Third, an assumption is unproved when you do not verify that the cause will achieve the desired effect. Research helps to test hypotheses. You ask questions. You gather evidence. You analyze. If the hypothesis is proven wrong, you adapt and test again. If it is proven right, the hypothesis is verified, and you can move forward in confidence.
+Second, an assumption is unproved when you do not verify that the cause will achieve the desired effect. Research helps to test hypotheses. You ask questions. You gather evidence. You analyze. If the hypothesis is proven wrong, you adapt and test again. If it is proven right, the hypothesis is verified, and you can move forward in confidence.
 
 
 
-## Overcoming assumptions
+## Unshared
 
-|Assumption||Activity|
+Collaborate and communicate.
+
+Stakeholders + Team
+
+Notes:
+Third, an assumption is unshared when it is not widely known. This breakdown easily happens across disciplines. For example, a designer may hand off a sketch of an interface to a developer. That sketch may include a button that behaves in a certain way that may be obvious to the designer and other designers, but it may not be obvious to a developer. Inevitably, a detail is overlooked which may have been caught earlier in the process. This may cause negative effects on the team or even on the end user experience.
+
+
+
+## Overcome assumptions
+
+||||
 |---|---|---|
-|Unexamined|→|Define|
-|Unshared|→|Communicate|
-|Unproved|→|Test|
+|**Unexamined**|→|Make an impact map|
+|**Unproved**|→|Test + Refine|
+|**Unshared**|→|Collaborate + Communicate|
 
 Notes:
 In summary, as problem solvers, we need to have some way to define assumptions, communicate assumptions, and test assumptions. When we do this, we can more confidently know that a particular cause will result in the desired effect. Impact mapping helps us to do this.
 
 
 
-## Two big assumptions
-
-Deliverable → (Assumption) → Impact
-
-Actor → (Assumption) → Goal
-
-Notes:
-A deliverable will cause a desired impact toward achieving a goal. An actor (with agency, not necessarily a system) will contribute toward achieving the goal.
-
-Add fail-safes and redundancy. The more actors that can meaningfully contribute, the more likely no single actor can scuttle the goal.
-
-
-
-## Collaborating on impact maps
+# Collaborating on impact maps
 
 
 
