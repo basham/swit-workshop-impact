@@ -9,8 +9,6 @@
   --color-swit-blue: #243142;
   --color-swit-orange: #fba61a;
   --color-swit-yellow: #f8d02d;
-  --color-accent: var(--color-swit-yellow);
-  --color-bg: var(--color-swit-blue);
   --color-base-0: #000;
   --color-base-1: #111;
   --color-base-2: #222;
@@ -30,15 +28,24 @@ html {
 }
 
 .reveal-viewport {
+  --color-accent: var(--color-swit-yellow);
+  --color-bg: var(--color-swit-blue);
+  --color-text: var(--color-base-9);
   background-color: var(--color-bg);
-  color: var(--color-base-8);
+  color: var(--color-text);
   font-family: "Open Sans", sans-serif;
   line-height: 1.2;
 }
 
+.reveal-viewport--primary {
+  --color-accent: var(--color-swit-blue);
+  --color-bg: var(--color-swit-yellow);
+  --color-text: var(--color-swit-blue);
+}
+
 .reveal ::selection {
   background: var(--color-accent);
-  color: var(--color-base-9);
+  color: var(--color-bg);
 }
 
 .reveal .controls,

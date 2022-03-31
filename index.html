@@ -46,6 +46,10 @@
         ],
         transition: 'none'
       })
+      Reveal.on('slidechanged', (event) => {
+        const isPrimary = !!event.currentSlide.querySelector('h1')
+        document.body.classList.toggle('reveal-viewport--primary', isPrimary)
+      })
     </script>
   </body>
 </html>
