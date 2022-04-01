@@ -18,7 +18,7 @@ UX designer in Enterprise Student Systems.
 *Accessibility. Front-end dev. Design systems.*
 
 Notes:
-I'm Chris Basham. I've worked at Indiana University since 2012, as a UX designer and front-end developer, working on various web software products. Over recent years, I've dived deeper into the topic of accessibility, and I want to share with you what I've learned regarding the intersection of these topics.
+I'm Chris Basham. I've worked at Indiana University since 2012, as a UX designer and front-end developer, working on various web software products. Today, I want to share with you a topic I've been studying and practicing over this last year.
 
 
 
@@ -32,7 +32,7 @@ I'm Chris Basham. I've worked at Indiana University since 2012, as a UX designer
 | 10:30 |      60m | Part 2: Practice |
 
 Notes:
-The workshop today is split into 3 major sections, over the course of 3 hours. Each section will be divided by 10 minute breaks.
+The workshop today is split into two major sections, with a five minute break. We'll learn about impact mapping, then put it into practice.
 
 
 
@@ -41,18 +41,18 @@ The workshop today is split into 3 major sections, over the course of 3 hours. E
 https://github.com/basham/swit-workshop-impact
 
 Notes:
-All resources for this workshop, including slides, slide notes, exercises, and links, are located on GitHub. Visit github.com/basham/swit-workshop-a11y. This link is posted in the Zoom chat.
+All resources for this workshop, including slides, slide notes, and links, are located on GitHub. This link is posted in the Zoom chat.
 
 
 
 ## Zoom etiquette
 
+- Raise your hand.
 - Submit questions in chat.
-- Questions will be answered periodically.
 - Mute when you're not talking.
 
 Notes:
-Because there's a lot to cover, I request you to submit any questions you have in the Zoom chat and keep yourself muted. I will then follow up with those questions periodically, between sections or after breaks.
+If you have any questions at any time, please use Zoom to raise your hand or post questions in the Zoom chat. If you're not talking, please mute your microphone.
 
 
 
@@ -93,9 +93,9 @@ You can think of product discovery as the first phase in the development process
 ## Discovery<br>+<br>Delivery
 
 Notes:
-We need both phases. Even if it is the most accessible and usable and delightful piece of software your team can deliver, if it doesn't solve the right problem, it is a waste of time. Users will be frustrated because they can't do what they really want. Stakeholders will be frustrated because their vision is not being achieved. The team will be frustrated because their work is ultimately without purpose.
+We need both phases. Even if it is the most accessible and usable and delightful piece of software your team can deliver — if it doesn't solve the right problem, it is a waste of time. Users will be frustrated because they can't do what they really want. Stakeholders will be frustrated because their vision is not being achieved. The team will be frustrated because their work feels meaningless.
 
-In contrast, if you know the right solution but have no means of executing it well, then the idea is never implemented or the implementation is ignored because of other factors, like poor user experience or late delivery.
+In contrast, if you know the right solution but have no means of executing it well, then the idea is never implemented, or it is delivered late, or it has a poor user experience.
 
 
 
@@ -141,8 +141,6 @@ Problem space + Solution space
 Notes:
 This workshop is specifically about one discovery technique, known as impact mapping. This technique is useful for making progress in both the problem space and the solution space. It helps the team stay aligned with stakeholders. It helps identify and prioritize research questions. It helps the team to explore different options and identify how to test those options.
 
-I stumbled across impact mapping over this last year. It has helped me and my development team better think through the work we do, before we start working.
-
 
 
 ## Examples
@@ -152,17 +150,28 @@ Before explaining what an impact map is and why to use it, let's briefly look at
 
 
 
-![Impact map with goal to increase mobile advertising](https://www.impactmapping.org/assets/im_template.png)
+![Impact map with goal to increase mobile advertising](assets/impact-map-example-ad.png)
 
 Notes:
 Impact maps are arranged in a hierarchy, with each level having a unique meaning. A goal that is trying to be achieved is at the top, with everything below it representing things that will help to achieve that goal. In this example, the goal is to "increase mobile advertising" on a music information website.
 
 
 
-![Impact map with goal to obtain 1 million active players](https://www.impactmapping.org/assets/gaming_example.png)
+![Impact map with goal to obtain 1 million active players](assets/impact-map-example-gaming.png)
 
 Notes:
 Not all impact maps have to look the same. The structure can be more loose. Levels don't have to be labeled. It could look more like a mind map. In this second example, the goal is for a gaming platform to obtain 1 million active players.
+
+
+
+## Website and book
+
+[ImpactMapping.org](https://www.impactmapping.org/)
+
+![Book cover, with illustration showing a car engineer and a driver working together to win a race trophy.](assets/impact-map-book-cover.png)
+
+Notes:
+Both of these examples are featured on the website ImpactMapping.org and in the book of the same name.
 
 
 
@@ -173,7 +182,7 @@ Not all impact maps have to look the same. The structure can be more loose. Leve
 3. Exposes assumptions
 
 Notes:
-The map can be a collaboration between the team and stakeholders, so there's an agreement of what is trying to be achieved. The number of items in the map roughly communicates the scope. The order of the items in the map communicates priorities. The connections of the items exposes assumptions.
+There are a number of benefits to using impact maps. The map can be a collaboration between the team and stakeholders, so there's an agreement of what is trying to be achieved. The number of items in the map roughly communicates the scope. The order of the items in the map communicates priorities. The connections of the items exposes assumptions.
 
 
 
@@ -197,7 +206,7 @@ Generally, the hierarchy of an impact map is composed of five levels: goals, act
 3. Impacts <span class="fragment" data-fragment-index="1">(align + research)</span>
 
 Notes:
-The first three levels (goal, actors, and impacts) represent the problem space. Here, focusing on aligning and researching. This is the space where it can be beneficial to collaborate with stakeholders.
+The first three levels (goal, actors, and impacts) represent the problem space. Here, focus on aligning and researching. This is the space where it can be beneficial to collaborate with stakeholders.
 
 
 
@@ -215,17 +224,19 @@ The last two levels (deliverables and experiments) represent the solution space.
 
 "What are you trying to achieve?"
 
+Personal. Business. Government.
+
 Notes:
-The top of an impact map is the goal. Have one goal per impact map. The goal should answer the question, "What are you trying to achieve?"
+The top of an impact map is the goal. Have one goal per impact map. The goal should answer the question, "What are you trying to achieve?" This idea can be used in any number of domains. Goals could be for your personal life, for a business, for the university, or even for the government.
 
 
 
 ## Personal goals
 
-Health. Relationships. Experiences. Finances.
+Health. Relationships. Finances. Experiences.
 
 Notes:
-Personal goals may involve improving your health, improving or creating relationships, having new experiences, or improving your financial situation.
+Personal goals may involve improving your health, improving relationships, improving your financial situation, or having new experiences.
 
 
 
@@ -256,7 +267,7 @@ Governmental goals is often more ambitious and broad. It may involve social welf
 - Time-based
 
 Notes:
-Defining a goal is the most important thing to do, since all your work depends on it. A good goal typically follows some variation of the SMART pattern. It should be specific, measurable, achievable, relevant, and time-based.
+Defining a goal is the most important thing to do, since all your work depends on it. A good goal typically follows some variation of the SMART pattern. This is an acronym. It should be specific, measurable, achievable, relevant, and time-based.
 
 https://en.wikipedia.org/wiki/SMART_criteria
 
@@ -309,9 +320,9 @@ The goal was measurable. The crew collected 47.5 pounds of lunar material. The c
 
 The goal was achievable because the U.S. government invested in new companies, in tens of thousands of new jobs, in new technology, and in new materials.
 
-The goal was relevant, because of the Cold War. The U.S. vowed to be first to the moon, so that "we shall not see space filled with weapons of mass destruction, but with instruments of knowledge and understanding."
+The goal was relevant, because of the Cold War. The U.S. vowed to be first to the moon, so that, as JFK said in that speech, "we shall not see space filled with weapons of mass destruction, but with instruments of knowledge and understanding."
 
-The goal was time-based, because the deadline was December 31, 1969.
+Finally, the goal was time-based, because the deadline was December 31, 1969.
 
 https://en.wikipedia.org/wiki/Apollo_11
 
@@ -332,7 +343,7 @@ A goal should not be confused with a vision or mission statement.
 - Share with world
 
 Notes:
-For example, NASA has a few different aims. It researches Earth, the solar system, and beyond. It develops and funds space technologies. It conducts space exploration, with humans soon to be travel to the moon and to Mars. And it does all this with the ultimate vision of benefiting all humankind, by sharing discoveries which results in new products for the public and new knowledge for the next generation.
+For example, NASA has a few different aims. It researches Earth, the solar system, and beyond. It develops and funds space technologies. It conducts space exploration, with humans soon to travel to the moon again and to Mars for the first time. And it does all this with the ultimate vision of benefiting all humankind, by sharing discoveries which results in new products for the public and new knowledge for the next generation.
 
 Each of these can be broken down into goals, but they are not goals in themselves.
 
