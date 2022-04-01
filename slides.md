@@ -594,15 +594,42 @@ In summary, as problem solvers, we need to have some way to define assumptions, 
 
 
 
+# Break
+
+5 minutes
+
+Return at 10:30 AM
+
+
+
 # Part 2
 
 Practice making impact maps
+
+Notes:
+We've learned about what an impact map is and why it can be a beneficial technique during the discovery phase. Now, let's practice as a group.
 
 
 
 ## Goal
 
 Collaborate realtime to make impact maps during this workshop
+
+Notes:
+First, I want to give you another example of an impact map. This is one that I used to decide this part of the workshop. I've set a goal that we "collaborate realtime to make impact maps during this workshop."
+
+
+
+|||
+|---|---|
+|**Specific**|Participants. Impact maps.|
+|**Measurable**|1+ participants. 1+ impact maps.|
+|**Achievable**|We have the tech.|
+|**Relevant**|Workshop implies activity.|
+|**Time-based**|60 minutes.|
+
+Notes:
+With this goal, I've tried to make it SMART: It specifically involves us and impact maps. We can measure how many of us are here, how many collaborate, and how many maps we make. It is achievable because we have the technology. It is relevant, because a workshop implies there will some kind of activity. It is time-based, because we have less than an hour to do it.
 
 
 
@@ -614,11 +641,17 @@ Participants
 
 Tech
 
+Notes:
+We could consider three actors in achieving this goal. There's me as the facilitator. You all as participants. And the technology we use to make it happen.
+
 
 
 ## Facilitator
 
 Prepare
+
+Notes:
+The most impactful thing I can do is to prepare.
 
 
 
@@ -630,11 +663,17 @@ Prepare template
 
 Prepare examples
 
+Notes:
+Preparing could involve choosing a platform for us to use, such as Google Docs. It could also be preparing some template and examples to get us started.
+
 
 
 ## Participants
 
 Participate
+
+Notes:
+The other thing that will lead to a successful outcome is if you all participate.
 
 
 
@@ -644,11 +683,17 @@ Edit or comment on a doc
 
 Ask questions
 
+Notes:
+Participation could involve editing the Google Doc or commenting on what others do. It could also be simple to ask questions during the workshop.
+
 
 
 ## Tech
 
 Hinder
+
+Notes:
+The technology we use could both enable us to do this activity as well as prevent us from doing this activity.
 
 
 
@@ -657,6 +702,11 @@ Hinder
 Limit number of collaborators
 
 Network fails
+
+Notes:
+For example, maybe there would have been hundreds of participants in this workshop. Would we encounter some technical limit on the number of collaborators? What if any of our networks fail, so we can't collaborate?
+
+These are things I'm not going to worry too much about. But it's good to be aware of the possibilities.
 
 
 
