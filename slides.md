@@ -371,7 +371,7 @@ After goals, the second level is actors. Actors are those who can help or hinder
 - Spies
 
 Notes:
-Returning to the goal of going to the moon, there are thousands of individuals involved. There are roles at NASA that make obvious contributions to the goal: astronauts, analysts, and engineers. The U.S. President set the goal and is a primary stakeholder. And the government would also be concerned about spies, trying to steal information to advantage the Soviet's space efforts.
+Returning to the goal of going to the moon, there are thousands of individuals involved. There are roles at NASA that make obvious contributions to the goal: astronauts, analysts, and engineers. The U.S. President set the goal and is a primary stakeholder. And the government would also be concerned about spies, trying to steal information to advantage the Soviet's space efforts. Stolen information would certainly put the goal at risk.
 
 
 
