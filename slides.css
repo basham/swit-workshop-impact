@@ -1,3 +1,9 @@
+@import 'reveal.js/dist/reset.css';
+@import 'reveal.js/dist/reveal.css';
+@import 'reveal-a11y/accessibility/helper.css';
+@import 'open-sans/open-sans.css';
+@import 'theme.css';
+
 /*
  * Impact map grid
  */
