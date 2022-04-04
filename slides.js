@@ -1,6 +1,6 @@
-import Reveal from './reveal.js/dist/reveal.esm.js'
-import Markdown from './reveal.js/plugin/markdown/markdown.esm.js'
-import Notes from './reveal.js/plugin/notes/notes.esm.js'
+import Reveal from './reveal.js/dist/reveal.esm.js';
+import Markdown from './reveal.js/plugin/markdown/markdown.esm.js';
+import Notes from './reveal.js/plugin/notes/notes.esm.js';
 
 Reveal.initialize({
   backgroundTransition: 'none',
@@ -20,13 +20,13 @@ Reveal.initialize({
     Notes
   ],
   transition: 'none'
-})
+});
 
-Reveal.on('ready', updateTheme)
+Reveal.on('ready', updateTheme);
 
-Reveal.on('slidechanged', updateTheme)
+Reveal.on('slidechanged', updateTheme);
 
 function updateTheme (event) {
-  const isPrimary = !!event.currentSlide.querySelector('h1')
-  document.body.classList.toggle('reveal-viewport--primary', isPrimary)
+  const isPrimary = !!event.currentSlide.querySelector('h1');
+  document.body.classList.toggle('reveal-viewport--primary', isPrimary);
 }
