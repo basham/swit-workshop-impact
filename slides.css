@@ -5,213 +5,71 @@
 @import 'theme.css';
 
 /*
- * Impact map grid
+ * Figure: Impact map
  */
 
-.fig-impact-map-grid {
-  align-items: center;
-  display: grid;
-  gap: 0.25rem;
-  grid-template-columns: 1fr 1fr 1fr 1fr;
-}
-
-.fig-impact-map-grid > * {
-  background-color: var(--bg);
-  border-radius: 0.25rem;
-  color: var(--color-base-1);
-  font-size: 0.75rem !important;
-  font-weight: normal !important;
-  grid-column: var(--col);
-  grid-row: var(--row);
-  margin: 0 !important;
-  padding: 0.5rem;
-}
-
-.fig-impact-map-grid > *::before {
-  display: block;
-  content: var(--label);
-  font-size: 0.5rem;
-  font-weight: bold;
-}
-
-.fig-impact-map-grid h1 {
-  --bg: khaki;
-  --col: 1;
-  --label: 'Goal';
-}
-
-.fig-impact-map-grid h2 {
-  --bg: palegreen;
-  --col: 2;
-  --label: 'Actor';
-}
-
-.fig-impact-map-grid h3 {
-  --bg: skyblue;
-  --col: 3;
-  --label: 'Impact';
-}
-
-.fig-impact-map-grid h4 {
-  --bg: lightcoral;
-  --col: 4;
-  --label: 'Deliverable';
-}
-
-/*
- * Impact map outline
- */
-
-.fig-impact-map-outline {
+.fig-im {
+  --color-level-1: khaki;
+  --color-level-2: palegreen;
+  --color-level-3: skyblue;
+  --color-level-4: lightcoral;
+  --color-level-5: plum;
   text-align: left;
 }
 
-.fig-impact-map-outline > :first-child {
+.fig-im > :first-child {
   margin-top: -0.5rem;
 }
 
-.fig-impact-map-outline ul {
-  counter-reset: impact;
+.fig-im ul {
   list-style-type: none !important;
   margin: 0;
 }
 
-.fig-impact-map-outline ul ul {
+.fig-im ul ul {
   margin: 0 0 0 1rem;
 }
 
-.fig-impact-map-outline li {
-  counter-increment: impact;
+.fig-im ul {
+  --color: var(--color-level-1);
+}
+
+.fig-im ul ul {
+  --color: var(--color-level-2);
+}
+
+.fig-im ul ul ul {
+  --color: var(--color-level-3);
+}
+
+.fig-im ul ul ul ul {
+  --color: var(--color-level-4);
+}
+
+.fig-im ul ul ul ul ul {
+  --color: var(--color-level-5);
+}
+
+.fig-im li {
   font-size: 0.75rem;
   font-weight: normal;
   margin-top: 0.5rem;
 }
 
-.fig-impact-map-outline li::before {
+.fig-im li strong:first-child {
   color: var(--color);
-  content: var(--label) " " counters(impact, ".");
-  display: block;
+  font-weight: bold;
+}
+
+.fig-im li > p {
+  margin: 0;
+}
+
+.fig-im li > p:not(:first-child) {
+  font-size: 0.6rem;
+  margin-top: 0.25rem;
+}
+
+.fig-im--small li {
   font-size: 0.5rem;
-  font-weight: bold;
-}
-
-.fig-impact-map-outline ul {
-  --color: khaki;
-  --label: 'Goal';
-}
-
-.fig-impact-map-outline ul ul {
-  --color: palegreen;
-  --label: 'Actor';
-}
-
-.fig-impact-map-outline ul ul ul {
-  --color: skyblue;
-  --label: 'Impact';
-}
-
-.fig-impact-map-outline ul ul ul ul {
-  --color: lightcoral;
-  --label: 'Deliverable';
-}
-
-/*
- * Impact map outline 2
- */
-
-.fig-impact-map-outline-2 {
-  text-align: left;
-}
-
-.fig-impact-map-outline-2 > * {
-  font-size: 0.75rem !important;
-  font-weight: normal !important;
-  margin: 0.5rem 0 0 var(--indent) !important;
-}
-
-.fig-impact-map-outline-2 > *::before {
-  color: var(--color);
-  content: var(--label) " " var(--counter);
-  display: block;
-  font-size: 0.5rem;
-  font-weight: bold;
-}
-
-.fig-impact-map-outline-2 h1 {
-  counter-increment: goal;
-  --counter: counter(goal);
-  --color: khaki;
-  --indent: 0;
-  --label: 'Goal';
-}
-
-.fig-impact-map-outline-2 h2 {
-  counter-increment: actor;
-  --counter: counter(actor);
-  --color: palegreen;
-  --indent: 1rem;
-  --label: 'Actor';
-}
-
-.fig-impact-map-outline-2 h3 {
-  counter-increment: impact;
-  --counter: counter(impact);
-  --color: skyblue;
-  --indent: 2rem;
-  --label: 'Impact';
-}
-
-.fig-impact-map-outline-2 h4 {
-  counter-increment: deliverable;
-  --counter: counter(deliverable);
-  --color: lightcoral;
-  --indent: 3rem;
-  --label: 'Deliverable';
-}
-
-.fig-impact-map-outline-2 p {
-  font-size: 0.5rem !important;
-  margin-top: 0.25rem !important;
-  margin-left: var(--indent) !important;
-}
-
-.fig-impact-map-outline-2 h2 ~ p {
-  margin-left: 1rem !important;
-}
-
-.fig-impact-map-outline-2 h3 ~ p {
-  margin-left: 2rem !important;
-}
-
-.fig-impact-map-outline-2 h4 ~ p {
-  margin-left: 3rem !important;
-}
-
-
-/*
- * Impact map outline 2 short
- */
-
-.fig-impact-map-outline-2--short h1 {
-  --label: 'G';
-}
-
-.fig-impact-map-outline-2--short h2 {
-  --label: 'A';
-}
-
-.fig-impact-map-outline-2--short h3 {
-  --label: 'I';
-}
-
-.fig-impact-map-outline-2--short h4 {
-  --label: 'D';
-}
-
-.fig-impact-map-outline-2--short > *::before {
-  color: var(--color);
-  content: var(--label) var(--counter) ": ";
-  display: inline;
-  font-size: inherit;
-  font-weight: bold;
 }

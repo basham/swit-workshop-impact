@@ -82,36 +82,11 @@ html {
   max-width: 95%;
 }
 
-.reveal strong,
-.reveal b {
-  font-weight: bold;
-}
-
-.reveal em {
-  font-style: italic;
-}
-
 .reveal ol,
 .reveal ul {
   display: inline-block;
   margin: 0 0 0.5rem 1rem;
   text-align: left;
-}
-
-.reveal ol {
-  list-style-type: decimal;
-}
-
-.reveal ul {
-  list-style-type: disc;
-}
-
-.reveal ul ul {
-  list-style-type: square;
-}
-
-.reveal ul ul ul {
-  list-style-type: circle;
 }
 
 .reveal ul ul,
@@ -144,38 +119,6 @@ html {
 
 .reveal q {
   font-style: italic;
-}
-
-.reveal pre {
-  background-color: var(--color-base-2);
-  display: block;
-  font-family: monospace;
-  margin: 0 auto 0.5rem;
-  position: relative;
-  text-align: left;
-  word-wrap: break-word;
-}
-
-.reveal code {
-  color: var(--color-accent);
-  font-family: monospace;
-}
-
-.reveal pre code {
-  color: inherit;
-  display: block;
-  max-height: 13.5rem;
-  overflow: auto;
-  padding: 0.5rem;
-  word-wrap: normal;
-}
-
-.hljs-tag {
-  color: var(--color-accent);
-}
-
-.hljs-string {
-  color: var(--color-base-9);
 }
 
 .reveal table {

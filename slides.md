@@ -410,6 +410,22 @@ In any given problem space, there can be an abundance of actors. Some may be mor
 
 
 
+<figure class="fig-im">
+
+- **Goal:** Go to the moon (Apollo missions)
+  - **Actor:** Astronauts
+  - **Actor:** Congress
+  - **Actor:** Life support system
+
+</figure>
+
+Notes:
+From here on, let's focus on three actors, from each of the actor types: astronauts, Congress, and life support system.
+
+This slide is showing an impact map as an outline. Each level is an increased indentation. Each item is prefixed with its type. We're currently only seeing the goal and actors. I'll expand this as I explain about the next levels.
+
+
+
 ## 3. Impacts
 
 "What should the actors do or not do<br>to impact the goal?"
@@ -441,7 +457,7 @@ Congress needs to fund NASA, and they should use their influence to rally for pu
 
 
 
-## Life support
+## Life support system
 
 - Maintain pressure and temperature
 - Filter and purify air
@@ -451,6 +467,21 @@ Notes:
 The life support system needs to monitor and manage the environments in which that astronauts will live and work. Practically, pressure, temperature, and humidity needs to be maintained. Oxygen needs to be produced from wastewater, and cleared of carbon dioxide and volatile gases. Air needs to be ventilated. Water needs to be recycled and stored.
 
 https://www.nasa.gov/content/life-support-systems
+
+
+
+<figure class="fig-im">
+
+- **Goal:** Go to the moon (Apollo missions)
+  - **Actor:** Life support system
+    - **Impact:** Maintain pressure and temperature
+    - **Impact:** Filter and purify air
+    - **Impact:** Recycle and store water
+
+</figure>
+
+Notes:
+Returning to the impact map, we'll focus just on the life support system actor. I've added the three impacts under it.
 
 
 
@@ -483,6 +514,36 @@ This image shows an inside look at the second-generation PLSS. It is the "backpa
 
 *The Apollo Portable Life Support System*. Figure 15, page 15.
 https://www.hq.nasa.gov/alsj/ALSJ-FlightPLSS.pdf
+
+
+
+<figure class="fig-im">
+
+- **Goal:** Go to the moon (Apollo missions)
+  - **Actor:** Life support system
+    - **Impact:** Maintain environment and atmosphere
+      - **Deliverable:** Portable life support system (PLSS)
+
+</figure>
+
+Notes:
+With this iteration of the impact map, I've condensed down the three impacts under life support to a single impact: "maintain environment and atmosphere." This was done to simplify the map, since the deliverable of the PLSS just happens to address those three impacts.
+
+
+
+<figure class="fig-im">
+
+- **Goal:** Go to the moon (Apollo missions)
+  - **Actor:** Life support system
+    - **Impact:** Maintain environment and atmosphere
+
+      Maintain pressure and temperature.<br>Filter and purify air. <br>Recycle and store water.
+      - **Deliverable:** Portable life support system (PLSS)
+
+</figure>
+
+Notes:
+If you would want to capture more details within the map, you could try adding notes or comments after the item. Here, I added the notes in smaller font size.
 
 
 
@@ -519,19 +580,19 @@ https://www.hq.nasa.gov/alsj/ALSJ-FlightPLSS.pdf
 
 
 
-<figure class="fig-impact-map-outline-2 fig-impact-map-outline-2--short">
+<figure class="fig-im">
 
-# Go to the moon (Apollo missions)
-## Life support system
-### Maintain environment and atmosphere
-#### Portable life support system
-##### Neutral buoyancy tanks
-##### Orbit
+- **Goal:** Go to the moon (Apollo missions)
+  - **Actor:** Life support system
+    - **Impact:** Maintain environment and atmosphere
+      - **Deliverable:** Portable life support system
+        - **Experiment:** Neutral buoyancy tanks
+        - **Experiment:** Orbit
 
 </figure>
 
 Notes:
-Now, let's arrange a line of these items together in an impact map. You can clearly see how the individual experiments (at the bottom of the map) feeds into the larger goal (at the top of the map). To go to moon, the life support system needs to maintain environment and atmosphere. It needs to do this within a space suit, so the crew can explore the lunar surface. The portable life support system will be tested both on Earth and in Earth orbit, to make sure it is ready for the lunar mission.
+Finally, let's include the two experiments in the impact map. You can clearly see how the individual experiments (at the bottom of the map) feeds into the larger goal (at the top of the map). To go to moon, the life support system needs to maintain environment and atmosphere. It needs to do this within a space suit, so the crew can explore the lunar surface. The portable life support system will be tested both on Earth and in Earth orbit, to make sure it is ready for the lunar mission.
 
 This impact map can grow to be as complex and detailed as the problem warrants. And going to the moon is a big and complex problem. So, you can imagine how necessary it is to have some grasp on how the little details involving thousands of hours and millions of dollars, will result in the bigger achievement.
 
@@ -721,80 +782,22 @@ These are things I'm not going to worry too much about. But it's good to be awar
 
 
 
-<figure class="fig-impact-map-outline-2 fig-impact-map-outline-2--short">
+<figure class="fig-im fig-im--small">
 
-# Collaborate on impact maps
-## Facilitator
-### Prepare
-#### Choose platform (Google Docs)
-#### Prepare template
-#### Prepare examples
-## Participants
-### Participate
-#### Edit or comment on a doc
-#### Ask questions
-## Tech
-### Hinder
-#### Limit number of collaborators
-#### Network fails
-
-</figure>
-
-
-
-<figure class="fig-impact-map-grid">
-  <h1 style="--row: 1 / span 4;">Grow mobile advertising</h1>
-  <h2 style="--row: 1 / span 4;">Super-fans with mobile devices</h2>
-  <h3 style="--row: 1 / span 2;">Come back more frequently</h3>
-  <h4>Push updates</h4>
-  <h4>Special offers</h4>
-  <h3 style="--row: 3 / span 2;">Stay longer</h3>
-  <h4>Forums</h4>
-  <h4>Chats</h4>
-</figure>
-
-
-
-<figure class="fig-impact-map-outline">
-
-- Grow mobile advertising
-  - Super-fans with mobile devices
-    - Come back more frequently
-      - Push updates
-      - Special offers
-    - Stay longer
-      - Forums
-      - Chats
-
-</figure>
-
-
-
-<figure class="fig-impact-map-outline-2">
-
-# Grow mobile advertising
-## Super-fans with mobile devices
-### Come back more frequently
-#### Push updates
-#### Special offers
-### Stay longer
-#### Forums
-#### Chats
-
-</figure>
-
-
-
-<figure class="fig-impact-map-outline-2 fig-impact-map-outline-2--short">
-
-# Grow mobile advertising
-## Super-fans with mobile devices
-### Come back more frequently
-#### Push updates
-#### Special offers
-### Stay longer
-#### Forums
-#### Chats
+- **Goal:** Collaborate on impact maps
+  - **Actor:** Facilitator
+    - **Impact:** Prepare
+      - **Deliverable:** Choose platform (Google Docs)
+      - **Deliverable:** Prepare template
+      - **Deliverable:** Prepare examples
+  - **Actor:** Participants
+    - **Impact:** Participate
+      - **Deliverable:** Edit or comment on a doc
+      - **Deliverable:** Ask questions
+  - **Actor:** Tech
+    - **Impact:** Hinder
+      - **Deliverable:** Limit number of collaborators
+      - **Deliverable:** Network fails
 
 </figure>
 
