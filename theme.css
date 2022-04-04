@@ -121,6 +121,10 @@ html {
   font-style: italic;
 }
 
+.reveal strong {
+  font-weight: bold;
+}
+
 .reveal table {
   border-collapse: collapse;
   border-spacing: 0;

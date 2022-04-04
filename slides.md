@@ -598,7 +598,7 @@ This impact map can grow to be as complex and detailed as the problem warrants. 
 
 
 
-## Problem solving
+# Problem solving
 
 Solution → <span class="fragment">(Assumption) →</span> Fix problem
 
@@ -666,20 +666,10 @@ In summary, as problem solvers, we need to have some way to define assumptions, 
 
 
 
-# Break
-
-5 minutes
-
-Return at 10:30 AM
-
-
-
-# Part 2
-
-Practice making impact maps
+# Simple example
 
 Notes:
-We've learned about what an impact map is and why it can be a beneficial technique during the discovery phase. Now, let's practice as a group.
+Now, I want to give you another example of an impact map. This should be a little more *down to earth* than than NASA example.
 
 
 
@@ -688,7 +678,7 @@ We've learned about what an impact map is and why it can be a beneficial techniq
 Collaborate realtime to make impact maps during this workshop
 
 Notes:
-First, I want to give you another example of an impact map. This is one that I used to decide this part of the workshop. I've set a goal that we "collaborate realtime to make impact maps during this workshop."
+I want you all to come out of this workshop not just with knowledge about impact maps, but with some practice making them. So, I set a goal that we "collaborate realtime to make impact maps during this workshop." Then I made an impact map from it. Let's walk through process.
 
 
 
@@ -705,77 +695,68 @@ With this goal, I've tried to make it SMART: It specifically involves us and imp
 
 
 
-## Actors
+<figure class="fig-im">
 
-Facilitator
+- **Goal:** Collaborate on impact maps
+  - **Actor:** Facilitator
+  - **Actor:** Participants
+  - **Actor:** Tech
 
-Participants
-
-Tech
+</figure>
 
 Notes:
 We could consider three actors in achieving this goal. There's me as the facilitator. You all as participants. And the technology we use to make it happen.
 
 
 
-## Facilitator
+<figure class="fig-im">
 
-Prepare
+- **Goal:** Collaborate on impact maps
+  - **Actor:** Facilitator
+    - <span class="fragment" data-fragment-index="1">**Impact:** Prepare</span>
+      - <span class="fragment" data-fragment-index="2">**Deliverable:** Choose platform (Google Docs)</span>
+      - <span class="fragment" data-fragment-index="2">**Deliverable:** Prepare template</span>
+      - <span class="fragment" data-fragment-index="2">**Deliverable:** Prepare examples</span>
+
+</figure>
 
 Notes:
 The most impactful thing I can do is to prepare.
 
-
-
-## Prepare
-
-Choose platform (Google Docs)
-
-Prepare template
-
-Prepare examples
-
-Notes:
 Preparing could involve choosing a platform for us to use, such as Google Docs. It could also be preparing some template and examples to get us started.
 
 
 
-## Participants
+<figure class="fig-im">
 
-Participate
+- **Goal:** Collaborate on impact maps
+  - **Actor:** Participants
+    - <span class="fragment" data-fragment-index="1">**Impact:** Participate</span>
+      - <span class="fragment" data-fragment-index="2">**Deliverable:** Edit or comment on a doc</span>
+      - <span class="fragment" data-fragment-index="2">**Deliverable:** Ask questions</span>
+
+</figure>
 
 Notes:
 The other thing that will lead to a successful outcome is if you all participate.
 
-
-
-## Participate
-
-Edit or comment on a doc
-
-Ask questions
-
-Notes:
 Participation could involve editing the Google Doc or commenting on what others do. It could also be simple to ask questions during the workshop.
 
 
 
-## Tech
+<figure class="fig-im">
 
-Hinder
+- **Goal:** Collaborate on impact maps
+  - **Actor:** Tech
+    - <span class="fragment" data-fragment-index="1">**Impact:** Hinder</span>
+      - <span class="fragment" data-fragment-index="2">**Deliverable:** Limit number of collaborators</span>
+      - <span class="fragment" data-fragment-index="2">**Deliverable:** Network fails</span>
 
-Notes:
-The technology we use could both enable us to do this activity as well as prevent us from doing this activity.
-
-
-
-## Hinder
-
-Limit number of collaborators
-
-Network fails
+</figure>
 
 Notes:
+The technology we use could both enable us to do this activity as well as prevent us from doing this activity. I will just focus on a couple ways in which the tech could hinder us.
+
 For example, maybe there would have been hundreds of participants in this workshop. Would we encounter some technical limit on the number of collaborators? What if any of our networks fail, so we can't collaborate?
 
 These are things I'm not going to worry too much about. But it's good to be aware of the possibilities.
@@ -800,6 +781,95 @@ These are things I'm not going to worry too much about. But it's good to be awar
       - **Deliverable:** Network fails
 
 </figure>
+
+Notes:
+Here's the full impact map. Looking at all of this, maybe it starts to feel a little heavy. Once you start to work on several of these, you'll likely develop some shorthands, to help you build them more efficiently. Let's look at some alternatives.
+
+
+
+<figure class="fig-im fig-im--small">
+
+- **Collaborate on impact maps**
+  - **A.** Facilitator
+    - **I.** Prepare
+      - **D.** Choose platform (Google Docs)
+      - **D.** Prepare template
+      - **D.** Prepare examples
+  - **A.** Participants
+    - **I.** Participate
+      - **D.** Edit or comment on a doc
+      - **D.** Ask questions
+  - **A.** Tech
+    - **I.** Hinder
+      - **D.** Limit number of collaborators
+      - **D.** Network fails
+
+</figure>
+
+Notes:
+Since the goal is always at the top, maybe it doesn't need to be explicitly labeled as a goal. It could just be bold, like a heading. The different level labels are abbreviated to "A" for actor, "I" for impact, "D" for deliverable, and "E" for experiment.
+
+
+
+<figure class="fig-im fig-im--small">
+
+- **Collaborate on impact maps**
+  - **A1.** Facilitator
+    - **I1.** Prepare
+      - **D1.** Choose platform (Google Docs)
+      - **D2.** Prepare template
+      - **D3.** Prepare examples
+  - **A2.** Participants
+    - **I2.** Participate
+      - **D4.** Edit or comment on a doc
+      - **D5.** Ask questions
+  - **A3.** Tech
+    - **I3.** Hinder
+      - **D6.** Limit number of collaborators
+      - **D7.** Network fails
+
+</figure>
+
+Notes:
+You could also add numbers to each item in the levels. This could be a quick way for your team to start discussing a certain item in the map. "What do we need to work on? Impact 1 or Deliverable 4?"
+
+
+
+<figure class="fig-im">
+
+- **Collaborate on impact maps**
+  - **I1.** **Facilitator:** Prepare
+    - **D1.** Choose platform (Google Docs)
+    - **D2.** Prepare template
+    - **D3.** Prepare examples
+  - **I2.** **Participants:** Participate
+    - **D4.** Edit or comment on a doc
+    - **D5.** Ask questions
+  - **I3.** **Tech:** Hinder
+    - **D6.** Limit number of collaborators
+    - **D7.** Network fails
+
+</figure>
+
+Notes:
+In this final adaption, the actor and impact levels are merged. With a comprehensive enough map, the actors are likely to repeat. However, this arrangement also allows you to sort the impacts at a higher level, than just within the level of its associated actor.
+
+
+
+# Break
+
+5 minutes
+
+Return at 10:30 AM
+
+
+
+# Part 2
+
+Practice making impact maps
+
+Notes:
+We've learned about what an impact map is and why it can be a beneficial technique during the discovery phase. Now, let's practice as a group.
 
 
 
