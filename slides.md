@@ -26,10 +26,10 @@ I'm Chris Basham. I've worked at Indiana University since 2012, as a UX designer
 
 | Time  | Duration | Description      |
 | -----:| --------:| ---------------- |
-| 9:30  |      10m | Introduction     |
-| 9:40  |      45m | Part 1: Learn    |
-| 10:25 |       5m | Break            |
-| 10:30 |      60m | Part 2: Practice |
+| 9:30  |       5m | Introduction     |
+| 9:35  |      25m | Part 1: Learn    |
+| 10:00 |       5m | Break            |
+| 10:05 |      55m | Part 2: Practice |
 
 Notes:
 The workshop today is split into two major sections, with a five minute break. We'll learn about impact mapping, then put it into practice.
@@ -267,7 +267,7 @@ Governmental goals is often more ambitious and broad. It may involve social welf
 - Time-based
 
 Notes:
-Defining a goal is the most important thing to do, since all your work depends on it. A good goal typically follows some variation of the SMART pattern. This is an acronym. It should be specific, measurable, achievable, relevant, and time-based.
+Defining a goal is the most important thing to do, since all your work depends on it. A good goal typically follows some variation of the SMART pattern. "SMART" is an acronym, meaning a goal should be specific, measurable, achievable, relevant, and time-based.
 
 https://en.wikipedia.org/wiki/SMART_criteria
 
@@ -492,7 +492,7 @@ Returning to the impact map, we'll focus just on the life support system actor. 
 Solutions.
 
 Notes:
-The fourth level of impact maps is deliverables. It asks the question, "How will you help the actors make the intended impact?" These are the solutions you may provide.
+Now, we transition from the problem space to the solution space. The fourth level of impact maps is deliverables. It asks the question, "How will you help the actors make the intended impact?" These are the solutions you may provide.
 
 
 
@@ -740,7 +740,7 @@ Preparing could involve choosing a platform for us to use, such as Google Docs. 
 Notes:
 The other thing that will lead to a successful outcome is if you all participate.
 
-Participation could involve editing the Google Doc or commenting on what others do. It could also be simple to ask questions during the workshop.
+Participation could involve editing the Google Doc or commenting on what others do. It could also be simply to ask questions during the workshop.
 
 
 
@@ -860,7 +860,7 @@ In this final adaption, the actor and impact levels are merged. With a comprehen
 
 5 minutes
 
-Return at 10:30 AM
+Return at 10:00 AM
 
 
 

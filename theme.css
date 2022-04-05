@@ -117,6 +117,10 @@ html {
   display: inline-block;
 }
 
+.reveal em {
+  font-style: italic;
+}
+
 .reveal q {
   font-style: italic;
 }
