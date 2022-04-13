@@ -873,10 +873,6 @@ We've learned about what an impact map is and why it can be a beneficial techniq
 
 
 
-# Special thanks
-
-
-
 # Thank you
 
 https://github.com/basham/swit-workshop-impact
