@@ -866,14 +866,10 @@ Return at 10:00 AM
 
 # Part 2
 
-Practice making impact maps
+[Practice making impact maps](https://docs.google.com/document/d/1WnqOmcIrhJkp5ruL8Og4sFaraWJKhNW0NyyOUo4HmaY/edit?usp=sharing)
 
 Notes:
 We've learned about what an impact map is and why it can be a beneficial technique during the discovery phase. Now, let's practice as a group.
-
-
-
-# Special thanks
 
 
 

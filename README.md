@@ -44,3 +44,4 @@ live-server
 
 - [Impact Mapping](https://www.impactmapping.org/) website and resources
 - [*Impact Mapping*](https://www.impactmapping.org/book.html) book
+- [Workshop exercises](https://docs.google.com/document/d/1WnqOmcIrhJkp5ruL8Og4sFaraWJKhNW0NyyOUo4HmaY/edit?usp=sharing) (Google Docs)
