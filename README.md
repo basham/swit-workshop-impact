@@ -4,7 +4,7 @@ Workshop for [Statewide IT Conference](https://statewideit.iu.edu/) at Indiana U
 
 April 11, 2022
 
-[Recording](https://iu.mediaspace.kaltura.com/playlist/dedicated/254034763/1_5ir79f71/1_0ysxg31t)
+[Recording](https://iu.mediaspace.kaltura.com/playlist/dedicated/254034763/1_5ir79f71/1_0ysxg31t) (1h 39m)
 
 [Slides](https://basham.github.io/swit-workshop-impact/)
 
